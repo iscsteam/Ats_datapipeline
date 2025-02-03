@@ -1,7 +1,5 @@
+import os
 exec(open("python_scripts/libraries.py").read())
-# Load environment variables from .env file
-load_dotenv()
-
 # Database credentials
 username_database = os.getenv('username_database')
 password = os.getenv('password')
@@ -270,4 +268,3 @@ def gold_data(data: pd.DataFrame):
     else:
         print("Connection to the database could not be established for employee_work_hours.")
 
-# The code now ends here.
