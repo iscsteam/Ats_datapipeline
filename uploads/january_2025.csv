@@ -1,0 +1,1170 @@
+Employee Code,Employee Name,Department,InTime, OutTime,Duration,Status,PunchRecords,AttendanceDate
+999,Incuspaze Service,Default,09:03,10:05,52,Present ,09:03:in(ME) 09:03:out(ME) 09:12:in(Technical Room) 09:19:out(ME) 09:19:in(ME) 10:04:out(Technical Room) 10:05:in(Technical Room) ,31-01-2025
+7777,Incuspaze HK,Default,09:03,09:59,2,Present ,09:03:in(ME) 09:03:out(ME) 09:56:in(ME) 09:56:out(ME) 09:57:in(ME) 09:59:out(ME) ,31-01-2025
+Director,Director,Default,10:15,10:15,0,Absent,10:15:in(ME) ,31-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,09:52,10:14,22,Present ,09:52:in(ME) 10:14:out(ME) 10:14:in(ME) ,31-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,31-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,31-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,31-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,31-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,31-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,31-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,10:15,10:15,0,Absent,10:15:in(ME) ,31-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:44,10:44,0,Absent,10:44:in(ME) ,31-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,Absent,,31-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:10,10:22,9,Present ,10:10:in(ME) 10:19:out(Technical Room) 10:22:in(Technical Room) ,31-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:16,10:29,65,Present ,09:16:in(Technical Room) 09:18:out(Technical Room) 09:23:in(ME) 10:26:out(Technical Room) 10:29:in(Technical Room) ,31-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:34,10:04,29,Present ,09:34:in(ME) 10:03:out(Technical Room) 10:04:in(Technical Room) ,31-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,31-01-2025
+ISCSI036,Niranjan Batana,Dev,10:17,10:23,6,Present ,10:17:in(ME) 10:23:out(Technical Room) ,31-01-2025
+ISCSI039,Naveen Pagote,PSS,09:36,09:41,4,Present ,09:36:in(Technical Room) 09:40:out(ME) 09:41:in(Technical Room) ,31-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:39,10:23,44,Present ,09:39:in(ME) 10:23:out(Technical Room) ,31-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,Absent,,31-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,31-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,31-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,31-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:37,10:04,16,Present ,09:37:in(ME) 09:53:out(Technical Room) 10:04:in(Technical Room) ,31-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,Absent,,31-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,09:41,09:41,0,Absent,09:41:in(ME) ,31-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,10:14,10:14,0,Absent,10:14:in(ME) ,31-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:39,09:41,1,Present ,09:39:in(Technical Room) 09:40:out(Technical Room) 09:41:in(ME) ,31-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,31-01-2025
+ISCSI069,Lodem Rakesh,Dev,00:00,00:00,0,Absent,,31-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:34,10:34,0,Absent,10:34:in(ME) ,31-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:43,09:43,0,Absent,09:43:in(ME) ,31-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,31-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:27,09:32,3,Present ,09:27:in(Technical Room) 09:29:out(Technical Room) 09:29:in(Technical Room) 09:30:out(Technical Room) 09:32:in(ME) ,31-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,31-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,31-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Absent,,31-01-2025
+999,Incuspaze Service,Default,09:20,19:58,98,Present ,09:20:in(Technical Room) 09:20:out(Technical Room) 09:52:in(Technical Room) 09:52:out(Technical Room) 17:51:in(ME) 17:52:out(Technical Room) 17:59:in(ME) 19:36:out(ME) 19:58:in(ME) 19:58:out(ME) ,30-01-2025
+7777,Incuspaze HK,Default,08:56,21:53,350,Present ,08:56:in(ME) 08:56:out(ME) 12:30:in(ME) 12:32:out(ME) 15:57:in(Technical Room) 16:04:out(ME) 16:05:in(ME) 19:29:out(Technical Room) 19:35:in(ME) 19:36:out(ME) 19:36:in(ME) 19:58:out(ME) 19:59:in(ME) 21:53:out(ME) ,30-01-2025
+Director,Director,Default,10:08,16:02,257,폩resent(Due to Continous Late),10:08:in(ME) 12:59:out(Technical Room) 13:00:in(Technical Room) 13:03:out(Technical Room) 13:33:in(Technical Room) 13:42:out(ME) 14:46:in(ME) 15:52:out(Technical Room) 15:54:in(Technical Room) 16:02:out(ME) ,30-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,09:58,18:56,410,Present ,09:58:in(ME) 09:59:out(ME) 10:07:in(ME) 10:43:out(ME) 10:44:in(ME) 12:01:out(Technical Room) 12:19:in(Technical Room) 14:03:out(Technical Room) 14:05:in(Technical Room) 14:05:out(Technical Room) 14:14:in(Technical Room) 14:39:out(ME) 15:28:in(ME) 15:59:out(ME) 16:40:in(ME) 18:56:out(ME) ,30-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,30-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,30-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,30-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,30-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,30-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,30-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,Absent,,30-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,15:08,19:26,157,Present ,15:08:in(ME) 15:25:out(Technical Room) 15:30:in(Technical Room) 16:06:out(ME) 17:12:in(ME) 17:48:out(Technical Room) 18:17:in(Technical Room) 19:16:out(Technical Room) 19:17:in(Technical Room) 19:26:out(ME) ,30-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,11:05,19:26,277,Present ,11:05:in(ME) 11:17:out(ME) 11:41:in(Technical Room) 11:48:out(ME) 11:52:in(Technical Room) 12:05:out(ME) 13:03:in(Technical Room) 13:08:out(ME) 13:40:in(Technical Room) 13:44:out(ME) 13:44:in(ME) 13:48:out(ME) 14:18:in(ME) 15:55:out(Technical Room) 15:57:in(Technical Room) 16:06:out(ME) 17:10:in(ME) 19:16:out(Technical Room) 19:26:in(ME) ,30-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,Absent,,30-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:45,18:57,462,Present ,09:45:in(Technical Room) 09:48:out(Technical Room) 09:51:in(ME) 10:56:out(Technical Room) 10:58:in(Technical Room) 11:45:out(ME) 11:45:in(ME) 12:54:out(Technical Room) 13:15:in(Technical Room) 13:25:out(ME) 13:48:in(Technical Room) 13:49:out(Technical Room) 13:53:in(ME) 14:32:out(Technical Room) 14:34:in(Technical Room) 15:36:out(ME) 15:47:in(Technical Room) 15:49:out(Technical Room) 15:54:in(ME) 16:09:out(ME) 16:25:in(ME) 16:27:out(Technical Room) 16:27:in(Technical Room) 18:06:out(Technical Room) 18:09:in(Technical Room) 18:57:out(ME) ,30-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:10,18:55,312,Present ,09:10:in(ME) 09:44:out(ME) 09:52:in(Technical Room) 09:57:out(ME) 10:08:in(ME) 10:13:out(ME) 10:20:in(ME) 10:24:out(ME) 10:41:in(Technical Room) 10:42:out(ME) 10:46:in(ME) 10:59:out(ME) 11:05:in(ME) 11:13:out(ME) 11:45:in(Technical Room) 11:47:out(Technical Room) 11:52:in(ME) 12:05:out(ME) 12:23:in(ME) 12:49:out(Technical Room) 12:51:in(Technical Room) 13:04:out(ME) 13:59:in(Technical Room) 13:59:out(Technical Room) 14:04:in(ME) 14:17:out(Technical Room) 14:19:in(Technical Room) 14:50:out(ME) 15:17:in(ME) 15:22:out(Technical Room) 15:23:in(Technical Room) 15:32:out(ME) 15:56:in(ME) 16:03:out(ME) 16:17:in(ME) 16:38:out(Technical Room) 16:41:in(Technical Room) 17:09:out(Technical Room) 17:14:in(ME) 17:15:out(ME) 17:24:in(Technical Room) 17:32:out(ME) 17:37:in(Technical Room) 17:37:out(Technical Room) 17:41:in(Technical Room) 17:42:out(Technical Room) 17:43:in(ME) 18:03:out(ME) 18:09:in(ME) 18:26:out(Technical Room) 18:28:in(Technical Room) 18:33:out(ME) 18:33:in(ME) 18:55:out(ME) ,30-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,30-01-2025
+ISCSI036,Niranjan Batana,Dev,09:53,20:07,22,Present ,09:53:in(Technical Room) 10:11:out(Technical Room) 18:04:in(Technical Room) 18:07:out(Technical Room) 20:06:in(ME) 20:07:out(ME) ,30-01-2025
+ISCSI039,Naveen Pagote,PSS,09:44,18:57,438,Present ,09:44:in(Technical Room) 09:49:out(Technical Room) 09:50:in(ME) 10:20:out(ME) 10:22:in(ME) 10:48:out(Technical Room) 10:51:in(Technical Room) 11:20:out(Technical Room) 11:22:in(Technical Room) 11:30:out(ME) 11:31:in(ME) 12:25:out(Technical Room) 12:29:in(Technical Room) 12:35:out(Technical Room) 12:37:in(Technical Room) 12:56:out(Technical Room) 13:17:in(Technical Room) 13:25:out(ME) 13:50:in(ME) 15:17:out(Technical Room) 15:21:in(Technical Room) 16:19:out(Technical Room) 16:42:in(Technical Room) 17:06:out(Technical Room) 17:26:in(Technical Room) 18:04:out(Technical Room) 18:09:in(Technical Room) 18:21:out(Technical Room) 18:22:in(Technical Room) 18:48:out(Technical Room) 18:49:in(Technical Room) 18:57:out(ME) ,30-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:38,18:31,450,Present ,09:38:in(ME) 09:53:out(Technical Room) 10:11:in(Technical Room) 11:54:out(ME) 11:54:in(ME) 12:08:out(Technical Room) 12:11:in(Technical Room) 13:13:out(Technical Room) 13:14:in(Technical Room) 13:42:out(Technical Room) 14:00:in(Technical Room) 15:02:out(ME) 15:26:in(ME) 16:09:out(Technical Room) 16:26:in(Technical Room) 17:27:out(Technical Room) 17:29:in(Technical Room) 18:31:out(ME) ,30-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:13,17:19,334,Present ,11:13:in(ME) 13:06:out(Technical Room) 13:33:in(Technical Room) 13:34:out(Technical Room) 13:36:in(Technical Room) 16:59:out(Technical Room) 17:02:in(Technical Room) 17:19:out(ME) ,30-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,30-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,30-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,30-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:39,18:31,446,Present ,09:39:in(ME) 09:48:out(Technical Room) 09:54:in(Technical Room) 11:28:out(Technical Room) 11:32:in(Technical Room) 12:20:out(Technical Room) 12:21:in(Technical Room) 12:29:out(ME) 12:34:in(ME) 12:54:out(Technical Room) 13:16:in(Technical Room) 13:24:out(ME) 13:51:in(ME) 15:15:out(Technical Room) 15:16:in(Technical Room) 16:09:out(ME) 16:18:in(Technical Room) 16:19:out(Technical Room) 16:25:in(ME) 17:21:out(Technical Room) 17:24:in(Technical Room) 18:09:out(Technical Room) 18:11:in(Technical Room) 18:31:out(ME) ,30-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,10:13,18:31,362,폩resent(Due to Continous Late),10:13:in(Technical Room) 10:17:out(ME) 10:37:in(Technical Room) 11:35:out(ME) 11:41:in(Technical Room) 11:42:out(Technical Room) 11:48:in(ME) 11:52:out(Technical Room) 11:52:in(Technical Room) 12:05:out(ME) 13:03:in(Technical Room) 13:08:out(ME) 13:33:in(Technical Room) 13:39:out(Technical Room) 13:40:in(Technical Room) 13:44:out(ME) 13:44:in(ME) 14:11:out(Technical Room) 14:19:in(Technical Room) 15:19:out(ME) 15:29:in(ME) 17:06:out(Technical Room) 17:07:in(Technical Room) 18:19:out(Technical Room) 18:20:in(Technical Room) 18:31:out(ME) ,30-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,09:41,21:20,657,Present ,09:41:in(ME) 14:35:out(Technical Room) 14:51:in(Technical Room) 15:02:out(ME) 15:26:in(ME) 17:27:out(Technical Room) 17:29:in(Technical Room) 21:20:out(ME) ,30-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,11:06,18:56,379,Present ,11:06:in(ME) 12:01:out(Technical Room) 12:05:in(ME) 12:05:out(ME) 12:19:in(Technical Room) 13:27:out(ME) 14:38:in(ME) 17:52:out(ME) 17:53:in(ME) 18:46:out(Technical Room) 18:47:in(Technical Room) 18:56:out(ME) ,30-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,Absent,,30-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,30-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:42,20:29,565,Present ,09:42:in(ME) 10:19:out(Technical Room) 10:37:in(Technical Room) 11:08:out(ME) 11:29:in(Technical Room) 11:30:out(Technical Room) 11:36:in(ME) 12:52:out(Technical Room) 12:54:in(Technical Room) 13:14:out(Technical Room) 13:14:in(Technical Room) 13:42:out(Technical Room) 13:55:in(Technical Room) 14:33:out(ME) 14:36:in(Technical Room) 14:36:out(Technical Room) 14:41:in(ME) 15:12:out(Technical Room) 15:14:in(Technical Room) 16:58:out(Technical Room) 17:01:in(Technical Room) 19:03:out(Technical Room) 19:04:in(Technical Room) 19:39:out(Technical Room) 19:47:in(Technical Room) 20:29:out(ME) ,30-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:00,21:20,631,Present ,10:00:in(ME) 11:07:out(ME) 11:36:in(ME) 17:14:out(ME) 17:34:in(ME) 20:06:out(ME) 20:06:in(ME) 21:20:out(ME) ,30-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:48,21:20,655,Present ,09:48:in(ME) 14:30:out(Technical Room) 14:52:in(Technical Room) 19:44:out(ME) 19:55:in(Technical Room) 19:56:out(Technical Room) 20:00:in(ME) 21:20:out(ME) ,30-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,30-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:42,19:05,486,Present ,09:42:in(ME) 10:49:out(Technical Room) 10:53:in(Technical Room) 13:41:out(Technical Room) 14:05:in(Technical Room) 15:03:out(ME) 15:26:in(ME) 17:08:out(Technical Room) 17:33:in(Technical Room) 18:56:out(Technical Room) 18:57:in(Technical Room) 19:05:out(ME) ,30-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,30-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,30-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Absent,,30-01-2025
+999,Incuspaze Service,Default,09:33,15:21,8,Present ,09:33:in(Technical Room) 09:33:out(Technical Room) 09:37:in(Technical Room) 09:37:out(Technical Room) 10:06:in(Technical Room) 10:12:out(ME) 10:12:in(ME) 10:13:out(ME) 15:19:in(Technical Room) 15:20:out(Technical Room) 15:21:in(Technical Room) ,29-01-2025
+7777,Incuspaze HK,Default,08:58,21:26,518,Present ,08:58:in(ME) 08:58:out(ME) 10:12:in(ME) 10:12:out(ME) 10:59:in(Technical Room) 11:08:out(ME) 11:08:in(ME) 12:35:out(ME) 12:37:in(ME) 12:38:out(ME) 12:38:in(ME) 13:44:out(Technical Room) 13:51:in(ME) 14:48:out(Technical Room) 14:57:in(ME) 15:16:out(ME) 15:17:in(ME) 17:32:out(Technical Room) 17:39:in(ME) 17:47:out(Technical Room) 17:55:in(ME) 19:21:out(Technical Room) 19:21:in(Technical Room) 19:22:out(Technical Room) 20:37:in(ME) 21:26:out(ME) ,29-01-2025
+Director,Director,Default,10:50,17:24,211,Present ,10:50:in(ME) 11:04:out(ME) 11:30:in(ME) 13:03:out(Technical Room) 13:06:in(Technical Room) 13:06:out(Technical Room) 13:42:in(ME) 14:20:out(ME) 15:58:in(Technical Room) 15:59:out(Technical Room) 16:01:in(Technical Room) 16:01:out(Technical Room) 16:19:in(Technical Room) 17:24:out(ME) ,29-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,10:09,18:48,459,Present ,10:09:in(ME) 11:15:out(Technical Room) 11:36:in(Technical Room) 14:26:out(ME) 14:27:in(ME) 15:26:out(ME) 15:57:in(ME) 16:28:out(ME) 16:33:in(ME) 18:38:out(Technical Room) 18:40:in(Technical Room) 18:48:out(ME) 18:48:in(ME) 18:48:out(ME) ,29-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,29-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,29-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,29-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,29-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,29-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,29-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,10:51,17:25,271,Present ,10:51:in(ME) 11:51:out(Technical Room) 12:10:in(Technical Room) 12:39:out(ME) 12:41:in(ME) 12:46:out(ME) 12:47:in(ME) 13:05:out(Technical Room) 13:29:in(Technical Room) 13:45:out(ME) 14:16:in(ME) 16:28:out(Technical Room) 16:30:in(Technical Room) 16:31:out(Technical Room) 16:38:in(Technical Room) 16:38:out(ME) 17:15:in(ME) 17:25:out(ME) ,29-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:48,18:30,320,Present ,10:48:in(ME) 11:31:out(Technical Room) 11:36:in(Technical Room) 11:41:out(Technical Room) 12:11:in(Technical Room) 13:05:out(Technical Room) 13:33:in(Technical Room) 13:43:out(ME) 14:09:in(Technical Room) 14:11:out(Technical Room) 14:16:in(ME) 16:20:out(Technical Room) 16:30:in(Technical Room) 16:38:out(ME) 17:15:in(ME) 18:19:out(Technical Room) 18:20:in(Technical Room) 18:30:out(ME) ,29-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,11:02,18:35,271,Present ,11:02:in(ME) 11:09:out(ME) 11:39:in(ME) 11:41:out(Technical Room) 12:10:in(Technical Room) 12:37:out(Technical Room) 12:38:in(Technical Room) 12:46:out(ME) 12:58:in(Technical Room) 12:59:out(Technical Room) 13:05:in(Technical Room) 13:05:out(ME) 13:33:in(Technical Room) 13:43:out(ME) 14:16:in(ME) 16:21:out(Technical Room) 16:30:in(Technical Room) 16:39:out(ME) 17:08:in(Technical Room) 17:10:out(Technical Room) 17:15:in(ME) 18:35:out(ME) ,29-01-2025
+ISCSI005,Vinitha Rudra,PSS,09:55,18:34,174,Present ,09:55:in(ME) 09:55:out(ME) 10:02:in(Technical Room) 10:12:out(Technical Room) 10:25:in(Technical Room) 10:29:out(Technical Room) 10:37:in(Technical Room) 10:41:out(Technical Room) 12:26:in(Technical Room) 12:31:out(Technical Room) 12:59:in(Technical Room) 13:31:out(Technical Room) 13:40:in(ME) 14:21:out(ME) 15:16:in(Technical Room) 15:16:out(Technical Room) 15:17:in(ME) 15:18:out(ME) 15:22:in(ME) 16:00:out(ME) 16:02:in(Technical Room) 16:19:out(Technical Room) 16:49:in(Technical Room) 16:52:out(Technical Room) 17:04:in(ME) 17:16:out(ME) 18:16:in(Technical Room) 18:23:out(Technical Room) 18:34:in(ME) ,29-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:15,18:33,460,Present ,09:15:in(Technical Room) 09:17:out(Technical Room) 09:22:in(ME) 09:33:out(Technical Room) 09:33:in(Technical Room) 09:40:out(ME) 09:40:in(ME) 10:03:out(Technical Room) 10:05:in(Technical Room) 10:51:out(Technical Room) 10:52:in(Technical Room) 12:10:out(Technical Room) 12:13:in(Technical Room) 12:53:out(Technical Room) 13:16:in(Technical Room) 13:25:out(ME) 13:44:in(Technical Room) 13:46:out(Technical Room) 13:51:in(ME) 15:44:out(ME) 15:49:in(ME) 15:58:out(Technical Room) 16:13:in(Technical Room) 17:13:out(Technical Room) 17:15:in(Technical Room) 17:46:out(Technical Room) 18:04:in(Technical Room) 18:33:out(ME) ,29-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:45,17:33,305,Present ,09:45:in(ME) 10:06:out(Technical Room) 10:12:in(ME) 10:13:out(ME) 10:27:in(ME) 10:37:out(ME) 10:46:in(ME) 10:49:out(ME) 10:56:in(Technical Room) 11:05:out(ME) 11:07:in(ME) 11:25:out(ME) 11:28:in(ME) 11:51:out(ME) 11:56:in(ME) 12:12:out(Technical Room) 12:13:in(Technical Room) 12:48:out(ME) 12:49:in(ME) 12:51:out(ME) 12:53:in(ME) 13:04:out(Technical Room) 13:29:in(Technical Room) 13:38:out(ME) 13:57:in(Technical Room) 13:59:out(Technical Room) 14:01:in(ME) 14:22:out(ME) 14:25:in(ME) 15:05:out(ME) 15:08:in(Technical Room) 15:08:out(ME) 15:10:in(Technical Room) 15:24:out(ME) 15:29:in(ME) 15:47:out(ME) 15:52:in(Technical Room) 15:54:out(Technical Room) 15:59:in(ME) 16:06:out(ME) 16:10:in(ME) 16:28:out(Technical Room) 16:29:in(Technical Room) 16:40:out(ME) 16:51:in(ME) 16:56:out(ME) 17:07:in(ME) 17:08:out(ME) 17:11:in(Technical Room) 17:12:out(Technical Room) 17:15:in(ME) 17:15:out(ME) 17:16:in(ME) 17:23:out(ME) 17:33:in(ME) 17:33:out(ME) ,29-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,29-01-2025
+ISCSI036,Niranjan Batana,Dev,09:56,21:20,578,Present ,09:56:in(Technical Room) 09:59:out(ME) 10:22:in(Technical Room) 12:45:out(Technical Room) 12:47:in(Technical Room) 13:19:out(Technical Room) 13:36:in(Technical Room) 13:39:out(Technical Room) 13:40:in(Technical Room) 13:50:out(ME) 14:15:in(Technical Room) 14:21:out(Technical Room) 14:22:in(ME) 18:37:out(Technical Room) 18:40:in(Technical Room) 20:30:out(Technical Room) 21:04:in(Technical Room) 21:20:out(ME) ,29-01-2025
+ISCSI039,Naveen Pagote,PSS,09:37,18:33,440,Present ,09:37:in(Technical Room) 09:41:out(ME) 09:41:in(Technical Room) 10:49:out(Technical Room) 10:52:in(Technical Room) 11:23:out(Technical Room) 11:25:in(Technical Room) 12:39:out(Technical Room) 12:41:in(Technical Room) 12:54:out(Technical Room) 13:19:in(Technical Room) 13:28:out(ME) 13:44:in(Technical Room) 13:46:out(Technical Room) 13:51:in(ME) 14:35:out(Technical Room) 14:38:in(Technical Room) 14:43:out(Technical Room) 14:46:in(Technical Room) 15:06:out(Technical Room) 15:13:in(Technical Room) 16:00:out(Technical Room) 16:02:in(Technical Room) 16:14:out(Technical Room) 16:29:in(Technical Room) 16:59:out(Technical Room) 17:01:in(Technical Room) 17:53:out(Technical Room) 17:56:in(Technical Room) 18:16:out(Technical Room) 18:23:in(Technical Room) 18:23:out(Technical Room) 18:24:in(Technical Room) 18:33:out(ME) ,29-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:56,18:57,434,Present ,09:56:in(Technical Room) 09:59:out(ME) 10:22:in(Technical Room) 11:32:out(ME) 11:44:in(ME) 12:22:out(Technical Room) 12:23:in(Technical Room) 12:32:out(ME) 12:49:in(ME) 13:06:out(Technical Room) 13:07:in(Technical Room) 13:18:out(Technical Room) 13:40:in(Technical Room) 17:17:out(Technical Room) 17:46:in(Technical Room) 18:38:out(Technical Room) 18:40:in(Technical Room) 18:57:out(ME) ,29-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:42,19:03,413,Present ,11:42:in(ME) 13:07:out(Technical Room) 13:31:in(Technical Room) 14:20:out(Technical Room) 14:22:in(Technical Room) 18:46:out(Technical Room) 18:48:in(Technical Room) 19:03:out(ME) ,29-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,29-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,29-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,29-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:47,18:33,434,Present ,09:47:in(ME) 09:55:out(ME) 09:55:in(ME) 09:59:out(Technical Room) 10:12:in(Technical Room) 11:07:out(Technical Room) 11:08:in(Technical Room) 12:27:out(Technical Room) 12:31:in(Technical Room) 12:53:out(Technical Room) 13:17:in(Technical Room) 13:25:out(ME) 13:51:in(ME) 14:58:out(Technical Room) 15:00:in(Technical Room) 15:57:out(Technical Room) 16:13:in(Technical Room) 17:04:out(Technical Room) 17:06:in(Technical Room) 17:58:out(Technical Room) 18:01:in(Technical Room) 18:16:out(Technical Room) 18:17:in(Technical Room) 18:33:out(ME) ,29-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,09:49,18:35,291,Present ,09:49:in(Technical Room) 09:55:out(ME) 10:19:in(Technical Room) 10:57:out(ME) 11:12:in(Technical Room) 11:14:out(Technical Room) 11:19:in(ME) 11:22:out(ME) 11:22:in(ME) 11:30:out(ME) 11:39:in(ME) 11:53:out(Technical Room) 12:10:in(Technical Room) 12:37:out(Technical Room) 12:38:in(Technical Room) 12:46:out(ME) 12:59:in(Technical Room) 13:01:out(Technical Room) 13:05:in(Technical Room) 13:05:out(ME) 13:33:in(Technical Room) 14:23:out(ME) 14:25:in(ME) 14:57:out(ME) 15:07:in(ME) 16:21:out(Technical Room) 18:07:in(Technical Room) 18:07:out(Technical Room) 18:08:in(Technical Room) 18:35:out(ME) ,29-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,10:03,20:32,537,Present ,10:03:in(ME) 10:05:out(Technical Room) 10:20:in(Technical Room) 13:00:out(Technical Room) 13:11:in(Technical Room) 13:17:out(Technical Room) 13:19:in(Technical Room) 14:07:out(Technical Room) 14:23:in(Technical Room) 14:42:out(ME) 15:07:in(ME) 16:00:out(ME) 16:00:in(ME) 16:41:out(ME) 17:01:in(ME) 18:37:out(Technical Room) 18:40:in(Technical Room) 20:32:out(ME) ,29-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,10:32,18:08,401,Present ,10:32:in(ME) 11:14:out(Technical Room) 11:36:in(Technical Room) 14:59:out(Technical Room) 15:01:in(Technical Room) 15:26:out(ME) 15:57:in(ME) 18:08:out(ME) ,29-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:59,18:32,419,Present ,09:59:in(Technical Room) 09:59:out(ME) 10:12:in(Technical Room) 11:02:out(ME) 11:04:in(ME) 11:05:out(ME) 11:07:in(ME) 11:35:out(Technical Room) 11:39:in(Technical Room) 12:54:out(Technical Room) 13:19:in(Technical Room) 13:19:out(Technical Room) 13:22:in(Technical Room) 13:29:out(ME) 13:51:in(ME) 16:14:out(Technical Room) 16:14:in(Technical Room) 16:15:out(Technical Room) 16:29:in(Technical Room) 17:03:out(Technical Room) 17:06:in(Technical Room) 17:08:out(ME) 17:10:in(ME) 18:14:out(Technical Room) 18:18:in(Technical Room) 18:32:out(ME) ,29-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,29-01-2025
+ISCSI069,Lodem Rakesh,Dev,10:12,19:44,456,Present ,10:12:in(Technical Room) 10:19:out(ME) 10:28:in(Technical Room) 10:57:out(ME) 11:19:in(ME) 12:32:out(ME) 12:49:in(ME) 13:07:out(Technical Room) 13:07:in(Technical Room) 13:50:out(ME) 14:20:in(ME) 15:26:out(ME) 15:57:in(ME) 18:44:out(ME) 18:44:in(ME) 18:54:out(Technical Room) 19:01:in(Technical Room) 19:44:out(ME) ,29-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,09:48,20:32,370,Present ,09:48:in(ME) 10:05:out(Technical Room) 10:19:in(Technical Room) 11:35:out(Technical Room) 11:37:in(Technical Room) 13:50:out(ME) 14:20:in(ME) 14:42:out(ME) 15:24:in(Technical Room) 15:29:out(Technical Room) 17:02:in(Technical Room) 17:15:out(Technical Room) 18:44:in(ME) 18:48:out(Technical Room) 18:49:in(Technical Room) 18:52:out(Technical Room) 18:54:in(Technical Room) 18:57:out(ME) 18:57:in(ME) 19:39:out(ME) 19:40:in(ME) 20:32:out(ME) ,29-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:35,20:32,601,Present ,09:35:in(ME) 10:05:out(Technical Room) 10:19:in(Technical Room) 13:17:out(Technical Room) 13:40:in(Technical Room) 14:42:out(ME) 15:00:in(Technical Room) 15:07:out(ME) 15:08:in(Technical Room) 20:32:out(ME) ,29-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,29-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:59,18:44,431,Present ,09:59:in(Technical Room) 10:00:out(ME) 10:04:in(Technical Room) 10:15:out(Technical Room) 10:27:in(Technical Room) 12:33:out(Technical Room) 12:44:in(Technical Room) 13:07:out(Technical Room) 13:07:in(Technical Room) 13:51:out(ME) 14:18:in(ME) 14:58:out(Technical Room) 15:03:in(Technical Room) 16:45:out(Technical Room) 17:18:in(Technical Room) 18:33:out(Technical Room) 18:35:in(Technical Room) 18:44:out(ME) ,29-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,11:14,18:49,381,Present ,11:14:in(Technical Room) 11:19:out(ME) 11:36:in(Technical Room) 13:18:out(Technical Room) 13:40:in(Technical Room) 13:50:out(ME) 14:20:in(ME) 15:50:out(Technical Room) 15:53:in(Technical Room) 18:39:out(Technical Room) 18:41:in(Technical Room) 18:49:out(ME) ,29-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,29-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,10:01,18:32,414,Present ,10:01:in(ME) 10:36:out(Technical Room) 10:38:in(Technical Room) 10:39:out(Technical Room) 10:39:in(Technical Room) 12:19:out(Technical Room) 12:22:in(Technical Room) 13:01:out(Technical Room) 13:01:in(Technical Room) 13:05:out(ME) 13:06:in(ME) 13:17:out(Technical Room) 13:36:in(Technical Room) 13:50:out(ME) 14:20:in(ME) 15:16:out(Technical Room) 15:27:in(Technical Room) 15:46:out(Technical Room) 15:47:in(Technical Room) 17:21:out(Technical Room) 17:44:in(Technical Room) 18:13:out(Technical Room) 18:20:in(Technical Room) 18:32:out(ME) ,29-01-2025
+999,Incuspaze Service,Default,08:59,09:32,0,Absent,08:59:in(ME) 08:59:out(ME) 09:32:in(Technical Room) 09:32:out(Technical Room) 09:32:in(Technical Room) ,28-01-2025
+7777,Incuspaze HK,Default,08:59,21:35,102,Present ,08:59:in(ME) 08:59:out(ME) 10:51:in(Technical Room) 11:09:out(ME) 11:11:in(ME) 11:11:out(Technical Room) 11:16:in(ME) 11:19:out(ME) 19:26:in(Technical Room) 19:33:out(ME) 19:58:in(ME) 19:59:out(ME) 19:59:in(ME) 20:01:out(ME) 20:01:in(ME) 21:12:out(ME) 21:35:in(ME) ,28-01-2025
+Director,Director,Default,10:35,16:41,315,Present ,10:35:in(ME) 12:00:out(Technical Room) 12:01:in(Technical Room) 13:00:out(Technical Room) 13:02:in(Technical Room) 13:21:out(Technical Room) 13:46:in(Technical Room) 13:46:out(Technical Room) 13:47:in(Technical Room) 13:56:out(ME) 14:18:in(ME) 16:41:out(ME) ,28-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,Absent,,28-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,28-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,28-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,28-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,28-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,28-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,28-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,10:35,16:40,178,Present ,10:35:in(ME) 10:39:out(ME) 11:22:in(ME) 12:04:out(Technical Room) 12:33:in(Technical Room) 13:22:out(Technical Room) 13:46:in(Technical Room) 13:56:out(ME) 14:47:in(ME) 15:41:out(Technical Room) 15:53:in(Technical Room) 16:08:out(ME) 16:36:in(ME) 16:40:out(ME) ,28-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:28,18:37,385,Present ,10:28:in(ME) 12:03:out(Technical Room) 12:06:in(Technical Room) 13:20:out(Technical Room) 13:48:in(Technical Room) 14:02:out(ME) 14:42:in(ME) 15:05:out(Technical Room) 15:06:in(Technical Room) 16:08:out(Technical Room) 16:39:in(Technical Room) 18:25:out(Technical Room) 18:26:in(Technical Room) 18:37:out(ME) ,28-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,10:56,19:16,368,Present ,10:56:in(ME) 11:02:out(ME) 11:22:in(ME) 12:04:out(Technical Room) 12:33:in(Technical Room) 13:00:out(Technical Room) 13:01:in(Technical Room) 13:17:out(Technical Room) 13:18:in(Technical Room) 13:58:out(ME) 14:40:in(Technical Room) 14:42:out(Technical Room) 14:47:in(ME) 16:08:out(Technical Room) 16:39:in(Technical Room) 18:51:out(Technical Room) 18:54:in(Technical Room) 19:16:out(ME) ,28-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,Absent,,28-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:19,18:31,457,Present ,09:19:in(Technical Room) 09:21:out(Technical Room) 09:25:in(ME) 10:46:out(Technical Room) 10:46:in(Technical Room) 10:51:out(Technical Room) 10:51:in(Technical Room) 11:02:out(Technical Room) 11:04:in(Technical Room) 12:40:out(Technical Room) 12:43:in(Technical Room) 12:53:out(Technical Room) 13:16:in(Technical Room) 13:24:out(ME) 13:51:in(ME) 14:34:out(Technical Room) 14:36:in(Technical Room) 15:23:out(Technical Room) 15:25:in(Technical Room) 16:14:out(Technical Room) 16:30:in(Technical Room) 16:56:out(ME) 17:06:in(Technical Room) 17:07:out(Technical Room) 17:12:in(ME) 17:59:out(Technical Room) 18:00:in(Technical Room) 18:31:out(ME) ,28-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:37,18:30,349,Present ,09:37:in(ME) 10:17:out(ME) 10:26:in(ME) 10:39:out(ME) 10:57:in(Technical Room) 10:59:out(Technical Room) 11:04:in(ME) 11:22:out(ME) 11:27:in(ME) 12:34:out(Technical Room) 12:41:in(Technical Room) 12:50:out(ME) 12:51:in(ME) 12:54:out(Technical Room) 13:16:in(Technical Room) 13:26:out(ME) 13:34:in(ME) 13:50:out(Technical Room) 13:53:in(Technical Room) 14:01:out(ME) 14:14:in(ME) 14:58:out(ME) 15:02:in(ME) 15:12:out(Technical Room) 15:14:in(Technical Room) 15:41:out(ME) 15:49:in(Technical Room) 15:51:out(Technical Room) 15:53:in(ME) 15:59:out(ME) 16:37:in(ME) 16:46:out(Technical Room) 16:47:in(Technical Room) 16:55:out(ME) 17:13:in(ME) 17:13:out(ME) 17:17:in(ME) 17:29:out(ME) 17:35:in(ME) 17:48:out(ME) 17:58:in(ME) 18:15:out(Technical Room) 18:15:in(ME) 18:17:out(ME) 18:17:in(Technical Room) 18:30:out(ME) ,28-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,28-01-2025
+ISCSI036,Niranjan Batana,Dev,09:28,19:54,554,Present ,09:28:in(Technical Room) 09:32:out(ME) 10:13:in(Technical Room) 12:02:out(ME) 12:02:in(ME) 12:19:out(Technical Room) 12:21:in(Technical Room) 12:40:out(ME) 12:42:in(ME) 12:55:out(Technical Room) 13:20:in(Technical Room) 17:18:out(Technical Room) 17:20:in(Technical Room) 19:54:out(ME) ,28-01-2025
+ISCSI039,Naveen Pagote,PSS,09:33,18:33,431,Present ,09:33:in(Technical Room) 09:38:out(Technical Room) 09:38:in(ME) 09:44:out(Technical Room) 09:44:in(Technical Room) 11:17:out(Technical Room) 11:23:in(Technical Room) 11:56:out(Technical Room) 11:59:in(Technical Room) 12:13:out(Technical Room) 12:16:in(Technical Room) 12:53:out(Technical Room) 13:22:in(Technical Room) 13:30:out(ME) 13:54:in(ME) 14:29:out(Technical Room) 14:31:in(Technical Room) 14:47:out(Technical Room) 14:49:in(Technical Room) 15:59:out(Technical Room) 16:17:in(Technical Room) 16:55:out(Technical Room) 17:12:in(Technical Room) 18:17:out(Technical Room) 18:19:in(Technical Room) 18:20:out(Technical Room) 18:23:in(Technical Room) 18:33:out(ME) ,28-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:28,18:34,428,Present ,09:28:in(Technical Room) 09:32:out(ME) 10:13:in(Technical Room) 12:35:out(ME) 12:38:in(ME) 12:55:out(Technical Room) 13:18:in(Technical Room) 13:35:out(ME) 13:54:in(ME) 14:51:out(Technical Room) 14:53:in(Technical Room) 15:01:out(ME) 15:18:in(ME) 16:40:out(Technical Room) 16:53:in(Technical Room) 18:34:out(ME) ,28-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:08,18:59,450,Present ,11:08:in(ME) 13:00:out(Technical Room) 13:17:in(Technical Room) 13:19:out(Technical Room) 13:21:in(Technical Room) 17:23:out(Technical Room) 17:25:in(Technical Room) 18:59:out(ME) ,28-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,28-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,28-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,28-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,Absent,,28-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,09:49,18:45,387,Present ,09:49:in(Technical Room) 09:55:out(ME) 09:59:in(Technical Room) 10:00:out(Technical Room) 10:01:in(Technical Room) 10:29:out(Technical Room) 10:30:in(Technical Room) 10:38:out(ME) 10:56:in(ME) 12:19:out(Technical Room) 12:32:in(Technical Room) 13:20:out(Technical Room) 13:44:in(Technical Room) 13:56:out(ME) 14:33:in(Technical Room) 14:34:out(Technical Room) 14:40:in(ME) 15:59:out(Technical Room) 16:00:in(Technical Room) 16:11:out(ME) 16:30:in(Technical Room) 16:31:out(Technical Room) 16:31:in(Technical Room) 16:35:out(ME) 16:39:in(Technical Room) 17:34:out(ME) 17:48:in(Technical Room) 17:49:out(Technical Room) 17:55:in(ME) 18:24:out(Technical Room) 18:25:in(Technical Room) 18:45:out(ME) ,28-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,10:10,21:27,630,Present ,10:10:in(ME) 11:34:out(ME) 11:52:in(ME) 12:55:out(Technical Room) 13:19:in(Technical Room) 20:15:out(ME) 20:20:in(ME) 21:27:out(ME) ,28-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,11:17,18:41,381,Present ,11:17:in(ME) 12:46:out(ME) 13:00:in(ME) 13:01:out(Technical Room) 13:18:in(Technical Room) 16:11:out(ME) 16:36:in(ME) 17:45:out(Technical Room) 17:52:in(Technical Room) 18:41:out(ME) ,28-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:50,18:31,443,Present ,09:50:in(Technical Room) 09:52:out(Technical Room) 09:52:in(ME) 10:30:out(Technical Room) 10:33:in(Technical Room) 12:53:out(Technical Room) 13:20:in(Technical Room) 13:29:out(ME) 13:53:in(ME) 15:57:out(Technical Room) 16:16:in(Technical Room) 17:19:out(Technical Room) 17:22:in(Technical Room) 18:18:out(Technical Room) 18:20:in(Technical Room) 18:31:out(ME) ,28-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,28-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:45,18:44,450,Present ,09:45:in(ME) 09:49:out(Technical Room) 09:59:in(Technical Room) 10:29:out(Technical Room) 10:30:in(Technical Room) 10:38:out(ME) 10:56:in(ME) 11:14:out(Technical Room) 11:15:in(Technical Room) 12:55:out(Technical Room) 13:18:in(Technical Room) 15:03:out(Technical Room) 15:13:in(Technical Room) 16:12:out(ME) 16:28:in(Technical Room) 16:30:out(Technical Room) 16:36:in(ME) 18:09:out(Technical Room) 18:12:in(Technical Room) 18:21:out(Technical Room) 18:22:in(Technical Room) 18:44:out(ME) ,28-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:34,18:54,474,Present ,10:34:in(ME) 15:15:out(Technical Room) 15:17:in(Technical Room) 17:34:out(ME) 17:55:in(ME) 18:09:out(Technical Room) 18:12:in(Technical Room) 18:54:out(ME) ,28-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:33,18:54,477,Present ,09:33:in(ME) 11:34:out(ME) 11:35:in(ME) 11:35:out(ME) 11:44:in(Technical Room) 11:49:out(Technical Room) 11:52:in(ME) 12:55:out(Technical Room) 13:19:in(Technical Room) 16:11:out(ME) 16:35:in(ME) 17:34:out(ME) 17:55:in(ME) 18:09:out(Technical Room) 18:11:in(Technical Room) 18:54:out(ME) ,28-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,28-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:48,18:41,427,Present ,09:48:in(Technical Room) 09:52:out(ME) 10:17:in(Technical Room) 12:23:out(Technical Room) 12:27:in(Technical Room) 12:54:out(Technical Room) 13:19:in(Technical Room) 13:56:out(ME) 14:10:in(ME) 14:40:out(Technical Room) 14:53:in(Technical Room) 17:13:out(Technical Room) 17:37:in(Technical Room) 18:31:out(Technical Room) 18:32:in(Technical Room) 18:41:out(ME) ,28-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,12:36,18:54,164,Present ,12:36:in(ME) 13:23:out(Technical Room) 13:47:in(Technical Room) 15:11:out(ME) 18:18:in(ME) 18:41:out(Technical Room) 18:44:in(Technical Room) 18:54:out(ME) ,28-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,28-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,12:00,19:06,324,Present ,12:00:in(ME) 12:19:out(Technical Room) 12:33:in(Technical Room) 12:59:out(Technical Room) 13:18:in(Technical Room) 13:26:out(Technical Room) 13:28:in(Technical Room) 13:36:out(ME) 13:54:in(ME) 13:56:out(ME) 13:57:in(ME) 13:57:out(ME) 14:02:in(ME) 15:37:out(Technical Room) 15:51:in(Technical Room) 17:21:out(Technical Room) 17:24:in(Technical Room) 17:38:out(ME) 18:00:in(ME) 18:44:out(Technical Room) 18:48:in(Technical Room) 18:57:out(ME) 18:57:in(ME) 19:06:out(ME) ,28-01-2025
+999,Incuspaze Service,Default,18:17,21:46,94,Present ,18:17:in(ME) 19:09:out(ME) 19:11:in(ME) 19:53:out(ME) 21:46:in(ME) ,27-01-2025
+7777,Incuspaze HK,Default,09:59,21:44,543,Present ,09:59:in(ME) 10:43:out(ME) 10:52:in(ME) 12:25:out(ME) 12:27:in(ME) 12:43:out(ME) 12:43:in(ME) 12:43:out(ME) 13:13:in(ME) 13:25:out(ME) 13:30:in(ME) 13:30:out(ME) 13:35:in(ME) 16:30:out(ME) 16:32:in(ME) 17:49:out(ME) 17:55:in(ME) 19:58:out(ME) 20:01:in(ME) 20:04:out(ME) 21:44:in(ME) ,27-01-2025
+Director,Director,Default,11:13,16:02,259,폩resent(Due to Continous Late),11:13:in(ME) 13:33:out(ME) 13:45:in(ME) 15:44:out(ME) 16:02:in(ME) 16:02:out(ME) ,27-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,Absent,,27-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,27-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,27-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,27-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,27-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,27-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,27-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,13:45,18:25,190,Present ,13:45:in(ME) 14:06:out(ME) 14:24:in(ME) 14:28:out(ME) 14:29:in(ME) 15:28:out(ME) 15:50:in(ME) 16:40:out(ME) 17:17:in(ME) 18:06:out(ME) 18:15:in(ME) 18:18:out(ME) 18:19:in(ME) 18:20:out(ME) 18:22:in(ME) 18:25:out(ME) ,27-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,11:06,18:41,379,Present ,11:06:in(ME) 13:36:out(ME) 14:15:in(ME) 16:40:out(ME) 17:17:in(ME) 18:41:out(ME) ,27-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,11:09,18:41,354,Present ,11:09:in(ME) 12:33:out(ME) 12:55:in(ME) 13:35:out(ME) 14:14:in(ME) 16:40:out(ME) 17:17:in(ME) 18:41:out(ME) ,27-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:43,14:20,162,Present ,10:43:in(ME) 13:25:out(ME) 14:20:in(ME) ,27-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:34,18:34,514,Present ,09:34:in(ME) 13:27:out(ME) 13:53:in(ME) 18:34:out(ME) ,27-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:11,18:34,418,Present ,09:11:in(ME) 09:53:out(ME) 09:59:in(ME) 10:17:out(ME) 10:17:in(ME) 10:39:out(ME) 10:40:in(ME) 10:48:out(ME) 10:55:in(ME) 11:04:out(ME) 11:04:in(ME) 11:23:out(ME) 11:34:in(ME) 12:02:out(ME) 12:05:in(ME) 12:32:out(ME) 12:39:in(ME) 12:51:out(ME) 12:55:in(ME) 13:32:out(ME) 14:02:in(ME) 14:06:out(ME) 14:29:in(ME) 14:41:out(ME) 14:44:in(ME) 15:21:out(ME) 15:25:in(ME) 15:28:out(ME) 15:50:in(ME) 16:34:out(ME) 16:41:in(ME) 16:58:out(ME) 16:59:in(ME) 17:43:out(ME) 17:45:in(ME) 18:03:out(ME) 18:14:in(ME) 18:19:out(ME) 18:20:in(ME) 18:25:out(ME) 18:27:in(ME) 18:34:out(ME) ,27-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,27-01-2025
+ISCSI036,Niranjan Batana,Dev,09:31,21:21,561,Present ,09:31:in(ME) 09:32:out(ME) 09:33:in(ME) 11:02:out(ME) 11:04:in(ME) 17:54:out(ME) 18:11:in(ME) 18:13:out(ME) 19:11:in(ME) 20:03:out(ME) 20:56:in(ME) 21:00:out(ME) 21:18:in(ME) 21:21:out(ME) ,27-01-2025
+ISCSI039,Naveen Pagote,PSS,09:40,18:39,509,Present ,09:40:in(ME) 13:31:out(ME) 14:01:in(ME) 18:36:out(ME) 18:36:in(ME) 18:39:out(ME) ,27-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:27,18:37,548,Present ,09:27:in(ME) 12:09:out(ME) 12:10:in(ME) 14:44:out(ME) 14:45:in(ME) 18:37:out(ME) ,27-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:24,19:08,463,Present ,11:24:in(ME) 16:01:out(ME) 16:02:in(ME) 19:08:out(ME) ,27-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,27-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,27-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,27-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:39,18:34,507,Present ,09:39:in(ME) 10:31:out(ME) 10:31:in(ME) 13:27:out(ME) 13:55:in(ME) 18:34:out(ME) ,27-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,09:51,18:42,185,Present ,09:51:in(ME) 11:52:out(ME) 12:08:in(ME) 12:34:out(ME) 13:36:in(ME) 14:14:out(ME) 17:17:in(ME) 17:17:out(ME) 18:42:in(ME) ,27-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,Absent,,27-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,Absent,,27-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:24,18:37,526,Present ,09:24:in(ME) 11:42:out(ME) 11:43:in(ME) 13:30:out(ME) 13:55:in(ME) 18:34:out(ME) 18:35:in(ME) 18:37:out(ME) ,27-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,27-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:54,19:57,570,Present ,09:54:in(ME) 10:32:out(ME) 10:32:in(ME) 11:20:out(ME) 11:28:in(ME) 12:07:out(ME) 12:07:in(ME) 12:10:out(ME) 12:35:in(ME) 14:46:out(ME) 14:46:in(ME) 19:57:out(ME) ,27-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:15,21:17,573,Present ,10:15:in(ME) 10:17:out(ME) 10:45:in(ME) 11:28:out(ME) 11:35:in(ME) 13:53:out(ME) 13:55:in(ME) 13:55:out(ME) 14:28:in(ME) 14:28:out(ME) 14:45:in(ME) 16:12:out(ME) 16:14:in(ME) 21:17:out(ME) ,27-01-2025
+ISCSI072,Sankalp Chenna,Dev,08:47,21:18,312,Present ,08:47:in(ME) 10:17:out(ME) 10:45:in(ME) 14:27:out(ME) 21:18:in(ME) 21:18:out(ME) ,27-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,27-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:56,18:48,519,Present ,09:56:in(ME) 14:26:out(ME) 14:39:in(ME) 18:48:out(ME) ,27-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,12:06,18:42,374,Present ,12:06:in(ME) 13:56:out(ME) 14:18:in(ME) 18:42:out(ME) ,27-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,27-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Absent,,27-01-2025
+999,Incuspaze Service,Default,00:00,00:00,0,WeeklyOff ,,26-01-2025
+7777,Incuspaze HK,Default,20:09,20:09,0,WeeklyOff ,20:09:in(ME) ,26-01-2025
+Director,Director,Default,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI039,Naveen Pagote,PSS,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI069,Lodem Rakesh,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI072,Sankalp Chenna,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,WeeklyOff ,,26-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,WeeklyOff ,,26-01-2025
+999,Incuspaze Service,Default,09:22,18:42,1,Present ,09:22:in(ME) 09:22:out(ME) 18:36:in(ME) 18:37:out(ME) 18:42:in(ME) ,25-01-2025
+7777,Incuspaze HK,Default,16:33,18:37,26,WeeklyOff Present ,16:33:in(ME) 16:59:out(ME) 18:37:in(ME) ,25-01-2025
+Director,Director,Default,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,25-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:58,15:42,314,WeeklyOff Present ,09:58:in(ME) 12:24:out(ME) 12:39:in(ME) 14:24:out(ME) 14:39:in(ME) 15:42:out(ME) ,25-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,11:10,15:42,233,WeeklyOff Present ,11:10:in(ME) 11:15:out(ME) 11:17:in(ME) 11:39:out(ME) 11:46:in(ME) 12:24:out(ME) 12:39:in(ME) 13:50:out(ME) 13:50:in(ME) 14:24:out(ME) 14:39:in(ME) 15:42:out(ME) ,25-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSI039,Naveen Pagote,PSS,09:52,15:42,331,WeeklyOff Present ,09:52:in(ME) 14:25:out(ME) 14:44:in(ME) 15:42:out(ME) ,25-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,25-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI069,Lodem Rakesh,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSI072,Sankalp Chenna,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,Absent,,25-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,WeeklyOff ,,25-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,25-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Absent,,25-01-2025
+999,Incuspaze Service,Default,17:41,19:39,14,Present ,17:41:in(ME) 17:55:out(ME) 19:39:in(ME) ,24-01-2025
+7777,Incuspaze HK,Default,09:38,19:51,611,폩resent(Due to Continous Late),09:38:in(ME) 10:36:out(ME) 10:37:in(ME) 14:42:out(ME) 14:42:in(ME) 18:54:out(ME) 18:55:in(ME) 19:39:out(ME) 19:39:in(ME) 19:51:out(ME) ,24-01-2025
+Director,Director,Default,00:00,00:00,0,Absent,,24-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,09:38,18:33,535,Present ,09:38:in(ME) 12:31:out(ME) 12:31:in(ME) 18:33:out(ME) ,24-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,24-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,24-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,24-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,24-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,24-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,24-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,11:24,18:30,354,Present ,11:24:in(ME) 12:56:out(ME) 13:05:in(ME) 14:05:out(ME) 14:46:in(ME) 15:27:out(ME) 15:29:in(ME) 18:06:out(ME) 18:26:in(ME) 18:30:out(ME) ,24-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,11:18,18:56,412,Present ,11:18:in(ME) 11:56:out(ME) 12:03:in(ME) 14:07:out(ME) 14:46:in(ME) 18:56:out(ME) ,24-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,11:02,19:26,422,Present ,11:02:in(ME) 11:21:out(ME) 11:39:in(ME) 12:47:out(ME) 12:47:in(ME) 12:58:out(ME) 13:05:in(ME) 14:05:out(ME) 14:06:in(ME) 14:07:out(ME) 14:46:in(ME) 18:56:out(ME) 19:13:in(ME) 19:25:out(ME) 19:25:in(ME) 19:26:out(ME) ,24-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:48,18:32,412,Present ,10:48:in(ME) 11:29:out(ME) 11:35:in(ME) 11:36:out(ME) 11:50:in(ME) 13:07:out(ME) 13:09:in(ME) 13:37:out(ME) 13:58:in(ME) 14:10:out(ME) 14:10:in(ME) 17:58:out(ME) 18:07:in(ME) 18:32:out(ME) ,24-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:25,18:36,524,Present ,09:25:in(ME) 10:58:out(ME) 10:59:in(ME) 13:31:out(ME) 13:57:in(ME) 18:36:out(ME) ,24-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:44,18:36,478,Present ,09:44:in(ME) 10:19:out(ME) 10:20:in(ME) 10:37:out(ME) 10:37:in(ME) 11:16:out(ME) 11:25:in(ME) 11:36:out(ME) 11:39:in(ME) 12:11:out(ME) 12:15:in(ME) 12:18:out(ME) 12:19:in(ME) 12:29:out(ME) 12:30:in(ME) 12:36:out(ME) 12:38:in(ME) 14:29:out(ME) 14:44:in(ME) 16:16:out(ME) 16:16:in(ME) 16:17:out(ME) 16:28:in(ME) 17:51:out(ME) 17:51:in(ME) 18:19:out(ME) 18:26:in(ME) 18:36:out(ME) ,24-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,24-01-2025
+ISCSI036,Niranjan Batana,Dev,10:54,20:48,504,Present ,10:54:in(ME) 10:54:out(ME) 11:14:in(ME) 12:36:out(ME) 12:54:in(ME) 13:31:out(ME) 14:02:in(ME) 14:05:out(ME) 14:06:in(ME) 14:38:out(ME) 14:38:in(ME) 14:42:out(ME) 14:48:in(ME) 14:59:out(ME) 15:08:in(ME) 20:42:out(ME) 20:47:in(ME) 20:48:out(ME) ,24-01-2025
+ISCSI039,Naveen Pagote,PSS,09:46,18:35,512,Present ,09:46:in(ME) 13:35:out(ME) 13:52:in(ME) 18:35:out(ME) ,24-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:58,20:47,606,Present ,09:58:in(ME) 13:31:out(ME) 14:05:in(ME) 16:34:out(ME) 16:38:in(ME) 18:28:out(ME) 18:33:in(ME) 20:47:out(ME) ,24-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:38,19:21,463,Present ,11:38:in(ME) 19:21:out(ME) ,24-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,24-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,24-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,24-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:46,18:32,497,Present ,09:46:in(ME) 10:27:out(ME) 10:30:in(ME) 13:31:out(ME) 13:57:in(ME) 18:32:out(ME) ,24-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,09:33,18:37,418,Present ,09:33:in(ME) 09:47:out(ME) 10:24:in(ME) 10:30:out(ME) 10:37:in(ME) 10:50:out(ME) 10:50:in(ME) 11:55:out(ME) 12:03:in(ME) 12:48:out(ME) 13:01:in(ME) 13:01:out(ME) 13:01:in(ME) 13:02:out(ME) 13:02:in(ME) 13:02:out(ME) 13:05:in(ME) 14:02:out(ME) 14:02:in(ME) 14:07:out(ME) 14:46:in(ME) 17:23:out(ME) 17:42:in(ME) 18:37:out(ME) ,24-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,Absent,,24-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,10:35,18:24,397,Present ,10:35:in(ME) 13:18:out(ME) 13:39:in(ME) 14:28:out(ME) 14:56:in(ME) 15:54:out(ME) 16:17:in(ME) 18:24:out(ME) ,24-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:40,18:32,510,Present ,09:40:in(ME) 11:06:out(ME) 11:07:in(ME) 11:09:out(ME) 11:11:in(ME) 11:13:out(ME) 11:13:in(ME) 12:22:out(ME) 12:22:in(ME) 13:37:out(ME) 13:52:in(ME) 14:21:out(ME) 14:24:in(ME) 14:24:out(ME) 14:25:in(ME) 18:32:out(ME) ,24-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,24-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:28,20:42,584,Present ,09:28:in(ME) 09:47:out(ME) 10:24:in(ME) 11:20:out(ME) 11:20:in(ME) 11:23:out(ME) 11:23:in(ME) 11:38:out(ME) 11:38:in(ME) 12:13:out(ME) 12:33:in(ME) 12:36:out(ME) 12:36:in(ME) 13:00:out(ME) 13:01:in(ME) 14:24:out(ME) 14:25:in(ME) 15:33:out(ME) 15:33:in(ME) 15:36:out(ME) 15:38:in(ME) 17:24:out(ME) 17:42:in(ME) 18:45:out(ME) 18:56:in(ME) 20:42:out(ME) ,24-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,09:42,18:27,411,Present ,09:42:in(ME) 13:27:out(ME) 13:27:in(ME) 13:34:out(ME) 13:34:in(ME) 14:06:out(ME) 14:15:in(ME) 14:20:out(ME) 14:59:in(ME) 14:59:out(ME) 15:02:in(ME) 15:10:out(ME) 15:37:in(ME) 15:37:out(ME) 16:13:in(ME) 18:27:out(ME) ,24-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:46,18:28,522,Present ,09:46:in(ME) 10:36:out(ME) 10:36:in(ME) 18:28:out(ME) ,24-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,24-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:42,18:40,503,Present ,09:42:in(ME) 13:19:out(ME) 13:54:in(ME) 18:40:out(ME) ,24-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,11:13,18:40,424,Present ,11:13:in(ME) 15:54:out(ME) 16:17:in(ME) 18:40:out(ME) ,24-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,24-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,11:13,18:35,327,Present ,11:13:in(ME) 12:35:out(ME) 12:35:in(ME) 12:36:out(ME) 12:52:in(ME) 13:31:out(ME) 14:02:in(ME) 14:16:out(ME) 14:16:in(ME) 14:42:out(ME) 14:59:in(ME) 14:59:out(ME) 15:08:in(ME) 16:34:out(ME) 16:59:in(ME) 17:12:out(ME) 17:28:in(ME) 18:29:out(ME) 18:30:in(ME) 18:35:out(ME) ,24-01-2025
+999,Incuspaze Service,Default,16:39,16:48,9,Present ,16:39:in(ME) 16:48:out(ME) ,23-01-2025
+7777,Incuspaze HK,Default,10:43,21:53,196,Present ,10:43:in(ME) 10:46:out(ME) 13:06:in(ME) 15:09:out(ME) 16:41:in(ME) 16:53:out(ME) 20:46:in(ME) 21:44:out(ME) 21:51:in(ME) 21:51:out(ME) 21:53:in(ME) ,23-01-2025
+Director,Director,Default,00:00,00:00,0,Absent,,23-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,09:50,18:59,517,Present ,09:50:in(ME) 13:59:out(ME) 14:27:in(ME) 14:35:out(ME) 14:39:in(ME) 18:59:out(ME) ,23-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,23-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,23-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,23-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,23-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,23-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,23-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,Absent,,23-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:34,18:42,217,Present ,10:34:in(ME) 10:59:out(ME) 11:20:in(ME) 11:30:out(ME) 15:40:in(ME) 18:42:out(ME) ,23-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,10:57,20:27,424,Present ,10:57:in(ME) 11:15:out(ME) 11:58:in(ME) 14:04:out(ME) 15:32:in(ME) 16:21:out(ME) 16:29:in(ME) 16:56:out(ME) 17:03:in(ME) 20:27:out(ME) ,23-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:34,18:24,345,Present ,10:34:in(ME) 13:21:out(ME) 14:35:in(ME) 14:41:out(ME) 15:32:in(ME) 18:24:out(ME) ,23-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:31,19:01,511,Present ,09:31:in(ME) 10:57:out(ME) 10:58:in(ME) 13:19:out(ME) 13:54:in(ME) 14:03:out(ME) 14:07:in(ME) 14:42:out(ME) 14:43:in(ME) 17:10:out(ME) 17:28:in(ME) 19:01:out(ME) ,23-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:28,19:01,473,Present ,09:28:in(ME) 09:49:out(ME) 09:50:in(ME) 10:18:out(ME) 10:19:in(ME) 10:34:out(ME) 10:41:in(ME) 10:42:out(ME) 10:47:in(ME) 10:54:out(ME) 11:08:in(ME) 11:10:out(ME) 11:16:in(ME) 11:18:out(ME) 11:18:in(ME) 12:04:out(ME) 12:04:in(ME) 12:32:out(ME) 12:44:in(ME) 13:28:out(ME) 13:47:in(ME) 16:49:out(ME) 16:51:in(ME) 16:56:out(ME) 17:03:in(ME) 17:10:out(ME) 17:31:in(ME) 17:39:out(ME) 17:44:in(ME) 19:01:out(ME) ,23-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,23-01-2025
+ISCSI036,Niranjan Batana,Dev,09:56,18:51,428,Present ,09:56:in(ME) 11:15:out(ME) 11:58:in(ME) 12:24:out(ME) 12:39:in(ME) 13:56:out(ME) 14:27:in(ME) 18:10:out(ME) 18:28:in(ME) 18:51:out(ME) ,23-01-2025
+ISCSI039,Naveen Pagote,PSS,09:38,18:35,508,Present ,09:38:in(ME) 09:42:out(ME) 09:43:in(ME) 13:26:out(ME) 13:54:in(ME) 18:35:out(ME) ,23-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:56,18:54,501,Present ,09:56:in(ME) 11:41:out(ME) 11:41:in(ME) 13:56:out(ME) 14:27:in(ME) 17:43:out(ME) 17:44:in(ME) 18:06:out(ME) 18:11:in(ME) 18:54:out(ME) ,23-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,Absent,,23-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,23-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,23-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,23-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:44,18:30,486,Present ,09:44:in(ME) 12:08:out(ME) 12:13:in(ME) 13:19:out(ME) 13:54:in(ME) 18:30:out(ME) ,23-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,09:54,18:24,271,폩resent(Due to Continous Late),09:54:in(ME) 09:54:out(ME) 10:59:in(ME) 11:20:out(ME) 11:32:in(ME) 15:40:out(ME) 17:21:in(ME) 17:23:out(ME) 18:24:in(ME) ,23-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,Absent,,23-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,Absent,,23-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:44,18:30,493,Present ,09:44:in(ME) 10:49:out(ME) 10:50:in(ME) 10:51:out(ME) 10:52:in(ME) 11:01:out(ME) 11:01:in(ME) 11:02:out(ME) 11:02:in(ME) 13:26:out(ME) 13:55:in(ME) 14:14:out(ME) 14:15:in(ME) 14:15:out(ME) 14:16:in(ME) 18:30:out(ME) ,23-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,23-01-2025
+ISCSI069,Lodem Rakesh,Dev,10:30,20:05,497,Present ,10:30:in(ME) 11:53:out(ME) 12:16:in(ME) 13:59:out(ME) 14:27:in(ME) 14:32:out(ME) 14:32:in(ME) 14:47:out(ME) 14:53:in(ME) 15:00:out(ME) 15:00:in(ME) 17:58:out(ME) 18:19:in(ME) 20:05:out(ME) ,23-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:30,21:18,581,Present ,10:30:in(ME) 11:52:out(ME) 12:16:in(ME) 14:26:out(ME) 14:47:in(ME) 14:47:out(ME) 14:47:in(ME) 15:00:out(ME) 15:00:in(ME) 15:59:out(ME) 16:00:in(ME) 17:58:out(ME) 18:19:in(ME) 21:18:out(ME) ,23-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:50,21:18,667,Present ,09:50:in(ME) 09:54:out(ME) 09:54:in(ME) 14:47:out(ME) 14:47:in(ME) 17:58:out(ME) 18:19:in(ME) 21:18:out(ME) ,23-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,23-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:10,19:05,561,Present ,09:10:in(ME) 13:59:out(ME) 14:32:in(ME) 14:32:out(ME) 14:33:in(ME) 19:05:out(ME) ,23-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,23-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,23-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Absent,,23-01-2025
+999,Incuspaze Service,Default,17:21,17:22,1,Present ,17:21:in(ME) 17:22:out(ME) ,22-01-2025
+7777,Incuspaze HK,Default,09:43,20:09,444,Present ,09:43:in(ME) 09:44:out(ME) 11:16:in(ME) 11:19:out(ME) 11:43:in(ME) 18:46:out(ME) 19:52:in(ME) 20:09:out(ME) ,22-01-2025
+Director,Director,Default,10:26,15:17,240,Present ,10:26:in(ME) 12:50:out(ME) 12:57:in(ME) 12:58:out(ME) 13:00:in(ME) 13:35:out(ME) 14:17:in(ME) 15:17:out(ME) ,22-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,09:41,18:37,440,Present ,09:41:in(ME) 13:31:out(ME) 14:33:in(ME) 17:04:out(ME) 17:38:in(ME) 18:37:out(ME) ,22-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,22-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,22-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,22-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,22-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,22-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,22-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,11:09,17:13,234,Present ,11:09:in(ME) 11:34:out(ME) 11:44:in(ME) 12:47:out(ME) 12:52:in(ME) 13:43:out(ME) 14:40:in(ME) 15:19:out(ME) 16:17:in(ME) 17:13:out(ME) ,22-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:46,18:22,399,Present ,10:46:in(ME) 13:43:out(ME) 14:40:in(ME) 18:22:out(ME) ,22-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,11:07,18:37,405,Present ,11:07:in(ME) 13:43:out(ME) 14:19:in(ME) 16:00:out(ME) 16:09:in(ME) 18:37:out(ME) ,22-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:57,18:37,374,Present ,10:57:in(ME) 13:35:out(ME) 14:17:in(ME) 16:24:out(ME) 17:08:in(ME) 18:37:out(ME) ,22-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:22,18:32,510,Present ,09:22:in(ME) 13:21:out(ME) 13:55:in(ME) 17:36:out(ME) 17:42:in(ME) 18:32:out(ME) ,22-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:57,18:16,333,Present ,09:57:in(ME) 10:17:out(ME) 10:19:in(ME) 10:52:out(ME) 10:55:in(ME) 12:37:out(ME) 12:42:in(ME) 14:20:out(ME) 14:29:in(ME) 15:24:out(ME) 16:02:in(ME) 16:08:out(ME) 17:57:in(ME) 18:16:out(ME) ,22-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,22-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,22-01-2025
+ISCSI039,Naveen Pagote,PSS,09:38,18:33,511,Present ,09:38:in(ME) 13:27:out(ME) 13:51:in(ME) 18:33:out(ME) ,22-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:31,18:31,482,Present ,09:31:in(ME) 12:35:out(ME) 13:02:in(ME) 14:03:out(ME) 14:34:in(ME) 18:31:out(ME) ,22-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:32,19:01,449,Present ,11:32:in(ME) 19:01:out(ME) ,22-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,22-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,22-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,22-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:50,18:31,479,Present ,09:50:in(ME) 11:28:out(ME) 11:29:in(ME) 11:48:out(ME) 11:49:in(ME) 12:09:out(ME) 12:11:in(ME) 13:21:out(ME) 13:55:in(ME) 17:19:out(ME) 17:23:in(ME) 18:31:out(ME) ,22-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,10:53,14:19,200,Present ,10:53:in(ME) 11:31:out(ME) 11:32:in(ME) 11:46:out(ME) 11:50:in(ME) 12:13:out(ME) 12:14:in(ME) 14:19:out(ME) 14:19:in(ME) ,22-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,Absent,,22-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,11:06,18:36,450,Present ,11:06:in(ME) 13:04:out(ME) 13:04:in(ME) 18:36:out(ME) ,22-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:32,18:32,473,Present ,09:32:in(ME) 13:27:out(ME) 13:51:in(ME) 14:04:out(ME) 14:04:in(ME) 14:05:out(ME) 14:05:in(ME) 16:22:out(ME) 17:05:in(ME) 18:32:out(ME) ,22-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,22-01-2025
+ISCSI069,Lodem Rakesh,Dev,11:04,18:33,392,Present ,11:04:in(ME) 12:25:out(ME) 13:04:in(ME) 14:36:out(ME) 14:36:in(ME) 16:05:out(ME) 16:07:in(ME) 16:28:out(ME) 16:44:in(ME) 18:33:out(ME) ,22-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:42,18:32,453,Present ,10:42:in(ME) 11:43:out(ME) 11:44:in(ME) 12:02:out(ME) 12:11:in(ME) 12:26:out(ME) 12:27:in(ME) 16:57:out(ME) 16:59:in(ME) 17:01:out(ME) 17:03:in(ME) 17:04:out(ME) 17:06:in(ME) 18:32:out(ME) ,22-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:39,18:31,516,Present ,09:39:in(ME) 16:28:out(ME) 16:44:in(ME) 18:31:out(ME) ,22-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,22-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:32,18:49,556,Present ,09:32:in(ME) 15:59:out(ME) 16:00:in(ME) 18:49:out(ME) ,22-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,22-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,22-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Absent,,22-01-2025
+999,Incuspaze Service,Default,08:48,17:48,540,Present ,08:48:in(ME) 17:48:out(ME) ,21-01-2025
+7777,Incuspaze HK,Default,08:48,21:30,623,Present ,08:48:in(ME) 12:29:out(ME) 12:30:in(ME) 19:12:out(ME) 21:30:in(ME) ,21-01-2025
+Director,Director,Default,11:20,15:22,198,Present ,11:20:in(ME) 13:32:out(ME) 14:16:in(ME) 15:16:out(ME) 15:16:in(ME) 15:22:out(ME) ,21-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,09:52,19:01,531,Present ,09:52:in(ME) 17:57:out(ME) 18:15:in(ME) 19:01:out(ME) ,21-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,21-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,21-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,21-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,21-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,21-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,21-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,11:20,15:19,209,Present ,11:20:in(ME) 12:30:out(ME) 12:31:in(ME) 14:39:out(ME) 15:03:in(ME) 15:13:out(ME) 15:18:in(ME) 15:19:out(ME) ,21-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,11:22,18:43,347,Present ,11:22:in(ME) 13:37:out(ME) 14:14:in(ME) 16:33:out(ME) 17:30:in(ME) 18:43:out(ME) ,21-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,11:07,19:45,420,Present ,11:07:in(ME) 13:33:out(ME) 14:14:in(ME) 16:33:out(ME) 17:30:in(ME) 19:45:out(ME) ,21-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:51,18:39,421,Present ,10:51:in(ME) 13:31:out(ME) 14:16:in(ME) 17:20:out(ME) 17:22:in(ME) 18:39:out(ME) ,21-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:28,18:34,495,Present ,09:28:in(ME) 10:22:out(ME) 10:24:in(ME) 13:19:out(ME) 13:49:in(ME) 14:52:out(ME) 14:58:in(ME) 16:37:out(ME) 16:50:in(ME) 18:34:out(ME) ,21-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:32,18:31,386,Present ,09:32:in(ME) 10:17:out(ME) 10:24:in(ME) 10:24:out(ME) 10:25:in(ME) 10:25:out(ME) 10:28:in(ME) 10:37:out(ME) 10:45:in(ME) 10:54:out(ME) 10:55:in(ME) 10:59:out(ME) 11:06:in(ME) 11:14:out(ME) 11:15:in(ME) 11:16:out(ME) 11:16:in(ME) 11:33:out(ME) 11:33:in(ME) 11:45:out(ME) 11:47:in(ME) 11:57:out(ME) 11:58:in(ME) 12:15:out(ME) 12:27:in(ME) 12:36:out(ME) 12:40:in(ME) 14:20:out(ME) 14:29:in(ME) 14:51:out(ME) 15:06:in(ME) 15:13:out(ME) 15:22:in(ME) 15:25:out(ME) 15:38:in(ME) 15:54:out(ME) 16:09:in(ME) 16:17:out(ME) 16:33:in(ME) 17:00:out(ME) 17:01:in(ME) 17:06:out(ME) 17:17:in(ME) 17:50:out(ME) 18:07:in(ME) 18:31:out(ME) ,21-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,21-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,21-01-2025
+ISCSI039,Naveen Pagote,PSS,09:41,18:35,501,Present ,09:41:in(ME) 13:26:out(ME) 13:29:in(ME) 15:57:out(ME) 16:09:in(ME) 16:15:out(ME) 16:33:in(ME) 18:35:out(ME) ,21-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:37,18:36,539,Present ,09:37:in(ME) 18:36:out(ME) ,21-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:07,19:09,482,Present ,11:07:in(ME) 19:09:out(ME) ,21-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,21-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,21-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,21-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,13:19,18:34,43,Present ,13:19:in(ME) 13:49:out(ME) 16:37:in(ME) 16:50:out(ME) 18:34:in(ME) ,21-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,10:05,18:56,380,Present ,10:05:in(ME) 12:32:out(ME) 12:32:in(ME) 12:37:out(ME) 14:11:in(ME) 16:33:out(ME) 17:30:in(ME) 18:56:out(ME) ,21-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,Absent,,21-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,11:06,18:18,410,Present ,11:06:in(ME) 16:39:out(ME) 17:01:in(ME) 17:38:out(ME) 17:38:in(ME) 18:18:out(ME) ,21-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:29,18:39,513,Present ,09:29:in(ME) 13:24:out(ME) 13:34:in(ME) 16:10:out(ME) 16:11:in(ME) 16:14:out(ME) 16:40:in(ME) 18:39:out(ME) ,21-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,21-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:43,18:30,240,Present ,09:43:in(ME) 10:12:out(ME) 10:40:in(ME) 12:28:out(ME) 12:47:in(ME) 12:55:out(ME) 16:15:in(ME) 16:15:out(ME) 16:33:in(ME) 16:39:out(ME) 17:01:in(ME) 18:30:out(ME) ,21-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,09:09,19:27,567,Present ,09:09:in(ME) 10:12:out(ME) 10:40:in(ME) 11:32:out(ME) 11:32:in(ME) 16:38:out(ME) 17:01:in(ME) 19:27:out(ME) ,21-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:44,20:46,613,Present ,09:44:in(ME) 10:11:out(ME) 10:40:in(ME) 16:41:out(ME) 17:01:in(ME) 20:46:out(ME) ,21-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,21-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:04,18:59,572,Present ,09:04:in(ME) 13:25:out(ME) 13:48:in(ME) 18:59:out(ME) ,21-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,21-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,21-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Absent,,21-01-2025
+999,Incuspaze Service,Default,09:04,17:48,0,Absent,09:04:in(ME) 09:04:out(ME) 17:48:in(ME) ,20-01-2025
+7777,Incuspaze HK,Default,09:04,22:06,93,Present ,09:04:in(ME) 09:04:out(ME) 11:46:in(ME) 12:43:out(ME) 16:45:in(ME) 16:47:out(ME) 17:39:in(ME) 18:13:out(ME) 20:14:in(ME) 20:14:out(ME) 20:15:in(ME) 20:15:out(ME) 22:06:in(ME) ,20-01-2025
+Director,Director,Default,10:45,15:06,246,Present ,10:45:in(ME) 13:53:out(ME) 14:08:in(ME) 14:10:out(ME) 14:10:in(ME) 15:06:out(ME) ,20-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,10:25,18:30,447,Present ,10:25:in(ME) 13:29:out(ME) 14:07:in(ME) 17:39:out(ME) 17:39:in(ME) 18:30:out(ME) ,20-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,20-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,20-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,20-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,20-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,20-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,20-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,12:25,20:19,336,Present ,12:25:in(ME) 13:54:out(ME) 14:53:in(ME) 16:23:out(ME) 17:06:in(ME) 17:12:out(ME) 17:23:in(ME) 18:03:out(ME) 18:28:in(ME) 20:19:out(ME) ,20-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:42,17:21,317,Present ,10:42:in(ME) 12:08:out(ME) 12:19:in(ME) 13:52:out(ME) 14:20:in(ME) 16:23:out(ME) 17:06:in(ME) 17:21:out(ME) ,20-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,11:13,19:23,421,Present ,11:13:in(ME) 13:54:out(ME) 14:20:in(ME) 16:23:out(ME) 17:02:in(ME) 17:02:out(ME) 17:06:in(ME) 19:23:out(ME) ,20-01-2025
+ISCSI005,Vinitha Rudra,PSS,14:01,18:35,273,Present ,14:01:in(ME) 16:35:out(ME) 16:36:in(ME) 18:35:out(ME) ,20-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:23,18:35,502,Present ,09:23:in(ME) 13:21:out(ME) 13:51:in(ME) 16:06:out(ME) 16:26:in(ME) 18:35:out(ME) ,20-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:34,20:19,457,Present ,09:34:in(ME) 10:06:out(ME) 10:08:in(ME) 11:17:out(ME) 11:22:in(ME) 11:32:out(ME) 11:34:in(ME) 11:39:out(ME) 11:41:in(ME) 11:48:out(ME) 11:58:in(ME) 12:48:out(ME) 12:48:in(ME) 13:00:out(ME) 13:02:in(ME) 14:00:out(ME) 14:08:in(ME) 14:26:out(ME) 14:53:in(ME) 15:38:out(ME) 15:39:in(ME) 15:55:out(ME) 15:56:in(ME) 16:05:out(ME) 16:17:in(ME) 17:30:out(ME) 17:33:in(ME) 17:52:out(ME) 18:00:in(ME) 18:03:out(ME) 18:28:in(ME) 18:34:out(ME) 18:40:in(ME) 18:41:out(ME) 19:53:in(ME) 20:17:out(ME) 20:19:in(ME) 20:19:out(ME) ,20-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,20-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,20-01-2025
+ISCSI039,Naveen Pagote,PSS,09:42,18:35,458,Present ,09:42:in(ME) 12:12:out(ME) 12:22:in(ME) 12:58:out(ME) 13:00:in(ME) 13:28:out(ME) 13:52:in(ME) 14:28:out(ME) 14:47:in(ME) 16:31:out(ME) 16:51:in(ME) 18:35:out(ME) ,20-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,10:21,18:33,450,Present ,10:21:in(ME) 12:35:out(ME) 12:55:in(ME) 13:29:out(ME) 13:51:in(ME) 18:33:out(ME) ,20-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:26,18:56,450,Present ,11:26:in(ME) 18:56:out(ME) ,20-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,20-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,20-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,20-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:39,18:35,486,Present ,09:39:in(ME) 13:21:out(ME) 13:51:in(ME) 16:06:out(ME) 16:26:in(ME) 18:35:out(ME) ,20-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,11:40,19:23,376,Present ,11:40:in(ME) 11:48:out(ME) 11:49:in(ME) 14:20:out(ME) 14:20:in(ME) 17:22:out(ME) 17:24:in(ME) 17:57:out(ME) 18:17:in(ME) 18:17:out(ME) 18:35:in(ME) 18:35:out(ME) 19:12:in(ME) 19:14:out(ME) 19:23:in(ME) ,20-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,Absent,,20-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,10:25,17:57,371,Present ,10:25:in(ME) 11:05:out(ME) 11:20:in(ME) 13:29:out(ME) 13:51:in(ME) 16:15:out(ME) 16:59:in(ME) 17:57:out(ME) ,20-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:38,18:35,490,Present ,09:38:in(ME) 13:28:out(ME) 13:52:in(ME) 16:28:out(ME) 16:51:in(ME) 18:35:out(ME) ,20-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,20-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:49,19:41,541,Present ,09:49:in(ME) 09:54:out(ME) 09:54:in(ME) 10:14:out(ME) 10:44:in(ME) 14:10:out(ME) 14:11:in(ME) 17:14:out(ME) 17:34:in(ME) 19:41:out(ME) ,20-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,09:32,21:39,123,Present ,09:32:in(ME) 09:32:out(ME) 10:14:in(ME) 10:44:out(ME) 11:15:in(ME) 11:18:out(ME) 12:35:in(ME) 12:55:out(ME) 13:30:in(ME) 13:51:out(ME) 17:22:in(ME) 17:24:out(ME) 17:24:in(ME) 17:57:out(ME) 18:17:in(ME) 18:29:out(ME) 18:30:in(ME) 18:30:out(ME) 20:13:in(ME) 20:15:out(ME) 21:39:in(ME) ,20-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:04,21:40,726,Present ,09:04:in(ME) 09:32:out(ME) 09:32:in(ME) 10:14:out(ME) 10:44:in(ME) 21:40:out(ME) ,20-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,20-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:32,19:03,23,Present ,09:32:in(ME) 09:32:out(ME) 13:30:in(ME) 13:53:out(ME) 19:03:in(ME) ,20-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,20-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,20-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,11:45,18:35,384,Present ,11:45:in(ME) 12:34:out(ME) 12:35:in(ME) 13:29:out(ME) 13:54:in(ME) 17:24:out(ME) 17:24:in(ME) 18:35:out(ME) ,20-01-2025
+999,Incuspaze Service,Default,00:00,00:00,0,WeeklyOff ,,19-01-2025
+7777,Incuspaze HK,Default,20:39,20:39,0,WeeklyOff ,20:39:in(ME) ,19-01-2025
+Director,Director,Default,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI039,Naveen Pagote,PSS,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI069,Lodem Rakesh,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI072,Sankalp Chenna,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,WeeklyOff ,,19-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,WeeklyOff ,,19-01-2025
+999,Incuspaze Service,Default,09:55,17:02,1,WeeklyOff Present ,09:55:in(ME) 09:56:out(ME) 17:02:in(ME) ,18-01-2025
+7777,Incuspaze HK,Default,00:04,09:48,584,WeeklyOff Present ,00:04:in(ME) 09:48:out(ME) ,18-01-2025
+Director,Director,Default,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,10:23,15:33,286,WeeklyOff Present ,10:23:in(ME) 12:59:out(ME) 13:23:in(ME) 15:33:out(ME) ,18-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,10:03,15:33,304,WeeklyOff Present ,10:03:in(ME) 10:05:out(ME) 10:06:in(ME) 12:58:out(ME) 13:23:in(ME) 15:33:out(ME) ,18-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI039,Naveen Pagote,PSS,10:01,15:33,321,WeeklyOff Present ,10:01:in(ME) 10:29:out(ME) 10:40:in(ME) 15:33:out(ME) ,18-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:02,13:31,70,WeeklyOff Present ,09:02:in(ME) 10:12:out(ME) 13:31:in(ME) 13:31:out(ME) ,18-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,09:31,09:31,0,WeeklyOff ,09:31:in(ME) ,18-01-2025
+ISCSI072,Sankalp Chenna,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,WeeklyOff ,,18-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,WeeklyOff ,,18-01-2025
+999,Incuspaze Service,Default,00:00,00:00,0,Absent,,17-01-2025
+7777,Incuspaze HK,Default,09:50,10:07,14,Present ,09:50:in(ME) 09:50:out(ME) 09:53:in(ME) 10:07:out(ME) ,17-01-2025
+Director,Director,Default,10:37,10:37,0,Absent,10:37:in(ME) ,17-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,10:21,10:21,0,Absent,10:21:in(ME) ,17-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,17-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,17-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,17-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,17-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,17-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,17-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,Absent,,17-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,Absent,,17-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,Absent,,17-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:42,10:42,0,Absent,10:42:in(ME) ,17-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:36,09:36,0,Absent,09:36:in(ME) ,17-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,00:00,00:00,0,Absent,,17-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,17-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,17-01-2025
+ISCSI039,Naveen Pagote,PSS,09:36,09:36,0,Absent,09:36:in(ME) ,17-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:27,09:27,0,Absent,09:27:in(ME) ,17-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,Absent,,17-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,17-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,17-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,17-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:46,09:46,0,Absent,09:46:in(ME) ,17-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,Absent,,17-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,10:16,10:16,0,Absent,10:16:in(ME) ,17-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,09:43,10:21,38,Present ,09:43:in(ME) 10:21:out(ME) ,17-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:46,09:46,0,Absent,09:46:in(ME) ,17-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,17-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:50,10:21,31,Present ,09:50:in(ME) 10:21:out(ME) ,17-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:06,10:06,0,Absent,10:06:in(ME) ,17-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:28,09:28,0,Absent,09:28:in(ME) 09:28:out(ME) ,17-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,17-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,Absent,,17-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,17-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,17-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,09:30,10:35,65,Present ,09:30:in(ME) 10:35:out(ME) 10:35:in(ME) ,17-01-2025
+999,Incuspaze Service,Default,09:05,16:55,42,Present ,09:05:in(ME) 09:46:out(ME) 16:54:in(ME) 16:55:out(ME) ,16-01-2025
+7777,Incuspaze HK,Default,09:05,19:56,490,Present ,09:05:in(ME) 14:01:out(ME) 14:18:in(ME) 16:08:out(ME) 16:09:in(ME) 16:36:out(ME) 16:39:in(ME) 16:41:out(ME) 16:43:in(ME) 17:33:out(ME) 19:51:in(ME) 19:55:out(ME) 19:55:in(ME) 19:56:out(ME) ,16-01-2025
+Director,Director,Default,10:08,16:08,322,Present ,10:08:in(ME) 13:59:out(ME) 14:32:in(ME) 15:57:out(ME) 16:02:in(ME) 16:08:out(ME) ,16-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,09:39,18:35,0,Absent,09:39:in(ME) 09:39:out(ME) 18:35:in(ME) ,16-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,16-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,16-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,16-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,16-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,16-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,16-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,11:24,19:21,363,Present ,11:24:in(ME) 14:02:out(ME) 14:36:in(ME) 16:13:out(ME) 16:48:in(ME) 17:42:out(ME) 17:43:in(ME) 17:43:out(ME) 18:19:in(ME) 18:52:out(ME) 18:56:in(ME) 19:16:out(ME) 19:20:in(ME) 19:21:out(ME) ,16-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,11:23,19:09,400,Present ,11:23:in(ME) 14:02:out(ME) 14:36:in(ME) 17:44:out(ME) 18:16:in(ME) 19:09:out(ME) ,16-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,10:59,19:21,409,Present ,10:59:in(ME) 11:24:out(ME) 11:34:in(ME) 13:59:out(ME) 14:00:in(ME) 14:01:out(ME) 14:37:in(ME) 15:37:out(ME) 15:48:in(ME) 17:44:out(ME) 18:16:in(ME) 19:17:out(ME) 19:20:in(ME) 19:21:out(ME) ,16-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:30,18:45,462,Present ,10:30:in(ME) 13:59:out(ME) 14:32:in(ME) 18:45:out(ME) ,16-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:27,18:47,520,Present ,09:27:in(ME) 12:17:out(ME) 12:20:in(ME) 13:22:out(ME) 13:54:in(ME) 16:26:out(ME) 16:28:in(ME) 17:08:out(ME) 17:11:in(ME) 18:47:out(ME) ,16-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,10:55,18:47,359,Present ,10:55:in(ME) 11:14:out(ME) 11:16:in(ME) 11:21:out(ME) 11:22:in(ME) 12:13:out(ME) 12:20:in(ME) 13:31:out(ME) 13:48:in(ME) 14:40:out(ME) 15:00:in(ME) 15:29:out(ME) 15:37:in(ME) 15:51:out(ME) 15:53:in(ME) 16:04:out(ME) 16:09:in(ME) 16:13:out(ME) 16:48:in(ME) 16:59:out(ME) 17:11:in(ME) 18:22:out(ME) 18:26:in(ME) 18:47:out(ME) ,16-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,16-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,16-01-2025
+ISCSI039,Naveen Pagote,PSS,09:38,19:04,548,Present ,09:38:in(ME) 12:17:out(ME) 12:20:in(ME) 13:33:out(ME) 13:48:in(ME) 19:04:out(ME) ,16-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:32,18:32,501,Present ,09:32:in(ME) 11:43:out(ME) 12:03:in(ME) 17:05:out(ME) 17:24:in(ME) 18:32:out(ME) ,16-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,Absent,,16-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,16-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,16-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,16-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,Absent,,16-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,14:25,19:17,233,Present ,14:25:in(ME) 15:33:out(ME) 16:01:in(ME) 17:45:out(ME) 18:16:in(ME) 19:17:out(ME) ,16-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,08:45,21:07,675,Present ,08:45:in(ME) 11:46:out(ME) 12:03:in(ME) 17:05:out(ME) 17:24:in(ME) 19:41:out(ME) 20:12:in(ME) 21:07:out(ME) ,16-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,09:38,18:37,500,Present ,09:38:in(ME) 13:32:out(ME) 14:11:in(ME) 18:37:out(ME) ,16-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:32,19:04,555,Present ,09:32:in(ME) 13:31:out(ME) 13:48:in(ME) 19:04:out(ME) ,16-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,16-01-2025
+ISCSI069,Lodem Rakesh,Dev,10:14,18:37,436,Present ,10:14:in(ME) 13:32:out(ME) 14:11:in(ME) 15:33:out(ME) 16:01:in(ME) 18:37:out(ME) ,16-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,09:57,21:05,668,Present ,09:57:in(ME) 21:05:out(ME) ,16-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:51,20:12,559,Present ,09:51:in(ME) 17:02:out(ME) 17:04:in(ME) 17:54:out(ME) 18:05:in(ME) 18:10:out(ME) 18:26:in(ME) 19:39:out(ME) 20:12:in(ME) ,16-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,16-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,Absent,,16-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,16-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,16-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Absent,,16-01-2025
+999,Incuspaze Service,Default,09:39,16:16,235,Present ,09:39:in(ME) 09:39:out(ME) 12:21:in(ME) 16:05:out(ME) 16:05:in(ME) 16:16:out(ME) ,15-01-2025
+7777,Incuspaze HK,Default,12:20,21:25,343,Present ,12:20:in(ME) 12:55:out(ME) 12:55:in(ME) 16:27:out(ME) 19:49:in(ME) 19:49:out(ME) 19:49:in(ME) 19:51:out(ME) 19:51:in(ME) 21:25:out(ME) ,15-01-2025
+Director,Director,Default,00:00,00:00,0,Absent,,15-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,Absent,,15-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,15-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,15-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,15-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,15-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,15-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,15-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,12:20,18:49,169,Present ,12:20:in(ME) 12:21:out(ME) 13:50:in(ME) 16:04:out(ME) 17:04:in(ME) 17:38:out(ME) 18:48:in(ME) 18:48:out(ME) 18:49:in(ME) ,15-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,11:17,18:48,309,Present ,11:17:in(ME) 14:19:out(ME) 14:57:in(ME) 17:04:out(ME) 18:48:in(ME) 18:48:out(ME) ,15-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,11:25,18:49,346,Present ,11:25:in(ME) 13:24:out(ME) 13:42:in(ME) 14:19:out(ME) 15:04:in(ME) 17:04:out(ME) 17:39:in(ME) 18:49:out(ME) ,15-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:56,18:35,435,Present ,10:56:in(ME) 13:50:out(ME) 14:07:in(ME) 14:22:out(ME) 14:29:in(ME) 18:35:out(ME) ,15-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:30,18:32,479,Present ,09:30:in(ME) 09:48:out(ME) 09:52:in(ME) 11:57:out(ME) 11:57:in(ME) 11:57:out(ME) 11:58:in(ME) 12:56:out(ME) 13:03:in(ME) 13:27:out(ME) 13:57:in(ME) 17:07:out(ME) 17:28:in(ME) 18:32:out(ME) ,15-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:15,18:30,422,Present ,09:15:in(ME) 09:48:out(ME) 09:52:in(ME) 10:08:out(ME) 10:13:in(ME) 10:30:out(ME) 10:31:in(ME) 10:41:out(ME) 11:11:in(ME) 11:15:out(ME) 11:15:in(ME) 11:46:out(ME) 11:56:in(ME) 11:56:out(ME) 11:59:in(ME) 12:44:out(ME) 12:49:in(ME) 13:14:out(ME) 13:16:in(ME) 14:20:out(ME) 14:22:in(ME) 14:30:out(ME) 15:04:in(ME) 15:28:out(ME) 15:30:in(ME) 15:32:out(ME) 15:37:in(ME) 15:38:out(ME) 15:41:in(ME) 15:58:out(ME) 16:02:in(ME) 17:05:out(ME) 17:28:in(ME) 18:30:out(ME) ,15-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,15-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,15-01-2025
+ISCSI039,Naveen Pagote,PSS,09:34,18:35,491,Present ,09:34:in(ME) 09:44:out(ME) 09:44:in(ME) 13:28:out(ME) 13:55:in(ME) 17:05:out(ME) 17:28:in(ME) 18:35:out(ME) ,15-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:07,18:36,545,Present ,09:07:in(ME) 12:42:out(ME) 13:06:in(ME) 18:36:out(ME) ,15-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,Absent,,15-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,15-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,15-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,15-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:26,18:32,518,Present ,09:26:in(ME) 13:27:out(ME) 13:55:in(ME) 18:32:out(ME) ,15-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,13:03,18:48,137,Present ,13:03:in(ME) 14:19:out(ME) 15:04:in(ME) 16:05:out(ME) 18:48:in(ME) 18:48:out(ME) ,15-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,08:33,22:10,785,Present ,08:33:in(ME) 20:10:out(ME) 20:42:in(ME) 22:10:out(ME) ,15-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,Absent,,15-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,Absent,,15-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,15-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:08,18:48,526,Present ,09:08:in(ME) 13:41:out(ME) 14:03:in(ME) 17:08:out(ME) 17:31:in(ME) 18:16:out(ME) 18:25:in(ME) 18:48:out(ME) ,15-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,00:00,00:00,0,Absent,,15-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:46,22:10,703,Present ,09:46:in(ME) 18:16:out(ME) 18:25:in(ME) 20:10:out(ME) 20:42:in(ME) 22:10:out(ME) ,15-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,15-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,Absent,,15-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,15-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,15-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Absent,,15-01-2025
+999,Incuspaze Service,Default,00:00,00:00,0,Holiday ,,14-01-2025
+7777,Incuspaze HK,Default,19:50,19:50,0,Holiday ,19:50:in(ME) ,14-01-2025
+Director,Director,Default,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI039,Naveen Pagote,PSS,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI069,Lodem Rakesh,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI072,Sankalp Chenna,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Holiday ,,14-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Holiday ,,14-01-2025
+999,Incuspaze Service,Default,11:19,17:46,44,Present ,11:19:in(ME) 11:20:out(ME) 11:43:in(ME) 11:43:out(ME) 16:55:in(ME) 16:58:out(ME) 16:58:in(ME) 17:38:out(ME) 17:46:in(ME) ,13-01-2025
+7777,Incuspaze HK,Default,09:36,19:58,408,Present ,09:36:in(ME) 09:36:out(ME) 11:43:in(ME) 11:43:out(ME) 12:06:in(ME) 15:10:out(ME) 15:31:in(ME) 18:01:out(ME) 18:04:in(ME) 18:37:out(ME) 18:49:in(ME) 19:30:out(ME) 19:58:in(ME) ,13-01-2025
+Director,Director,Default,00:00,00:00,0,Absent,,13-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,10:28,10:28,0,Absent,10:28:in(ME) 10:28:out(ME) ,13-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,13-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,13-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,13-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,13-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,13-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,13-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,Absent,,13-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,12:09,18:31,344,Present ,12:09:in(ME) 14:39:out(ME) 15:17:in(ME) 18:31:out(ME) ,13-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,Absent,,13-01-2025
+ISCSI005,Vinitha Rudra,PSS,11:20,18:28,19,Present ,11:20:in(ME) 11:20:out(ME) 16:23:in(ME) 16:42:out(ME) 18:28:in(ME) ,13-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:38,18:28,515,Present ,09:38:in(ME) 10:42:out(ME) 10:44:in(ME) 13:32:out(ME) 13:45:in(ME) 18:28:out(ME) ,13-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,00:00,00:00,0,Absent,,13-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,13-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,13-01-2025
+ISCSI039,Naveen Pagote,PSS,09:38,18:28,505,Present ,09:38:in(ME) 12:54:out(ME) 12:59:in(ME) 13:35:out(ME) 13:55:in(ME) 18:28:out(ME) ,13-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,00:00,00:00,0,Absent,,13-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,Absent,,13-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,13-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,13-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,13-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,10:25,18:28,459,Present ,10:25:in(ME) 11:38:out(ME) 11:48:in(ME) 13:31:out(ME) 13:45:in(ME) 18:28:out(ME) ,13-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,10:58,18:44,254,Present ,10:58:in(ME) 11:02:out(ME) 11:18:in(ME) 12:50:out(ME) 12:50:in(ME) 12:51:out(ME) 13:20:in(ME) 15:36:out(ME) 17:28:in(ME) 17:28:out(ME) 18:23:in(ME) 18:44:out(ME) ,13-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,08:29,21:14,651,Present ,08:29:in(ME) 09:15:out(ME) 09:21:in(ME) 11:02:out(ME) 11:18:in(ME) 15:36:out(ME) 15:54:in(ME) 17:28:out(ME) 17:28:in(ME) 18:44:out(ME) 18:52:in(ME) 19:04:out(ME) 19:57:in(ME) 20:04:out(ME) 20:17:in(ME) 20:22:out(ME) 20:22:in(ME) 21:14:out(ME) ,13-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,09:51,16:23,389,Present ,09:51:in(ME) 10:26:out(ME) 10:27:in(ME) 11:01:out(ME) 11:02:in(ME) 16:21:out(ME) 16:22:in(ME) 16:23:out(ME) ,13-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:49,18:30,499,Present ,09:49:in(ME) 13:34:out(ME) 13:55:in(ME) 18:28:out(ME) 18:29:in(ME) 18:30:out(ME) ,13-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,13-01-2025
+ISCSI069,Lodem Rakesh,Dev,00:00,00:00,0,Absent,,13-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,00:00,00:00,0,Absent,,13-01-2025
+ISCSI072,Sankalp Chenna,Dev,10:16,22:00,649,Present ,10:16:in(ME) 11:37:out(ME) 11:47:in(ME) 17:39:out(ME) 17:44:in(ME) 19:17:out(ME) 19:57:in(ME) 22:00:out(ME) ,13-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,13-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,Absent,,13-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,13-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,Absent,,13-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,11:14,18:10,382,Present ,11:14:in(ME) 13:35:out(ME) 13:55:in(ME) 14:03:out(ME) 14:03:in(ME) 15:37:out(ME) 15:51:in(ME) 18:10:out(ME) ,13-01-2025
+999,Incuspaze Service,Default,22:27,22:28,1,WeeklyOff Present ,22:27:in(ME) 22:28:out(ME) ,12-01-2025
+7777,Incuspaze HK,Default,19:51,19:51,0,WeeklyOff ,19:51:in(ME) ,12-01-2025
+Director,Director,Default,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI039,Naveen Pagote,PSS,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI069,Lodem Rakesh,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI072,Sankalp Chenna,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,WeeklyOff ,,12-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,WeeklyOff ,,12-01-2025
+999,Incuspaze Service,Default,13:58,17:09,155,WeeklyOff Present ,13:58:in(ME) 14:55:out(ME) 14:55:in(ME) 15:19:out(ME) 15:55:in(ME) 17:09:out(ME) ,11-01-2025
+7777,Incuspaze HK,Default,00:00,00:00,0,WeeklyOff ,,11-01-2025
+Director,Director,Default,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI039,Naveen Pagote,PSS,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI069,Lodem Rakesh,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI072,Sankalp Chenna,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCSI084,Divya,HR & Admin,00:00,00:00,0,WeeklyOff ,,11-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,WeeklyOff ,,11-01-2025
+999,Incuspaze Service,Default,09:16,09:16,0,Absent,09:16:in(ME) ,10-01-2025
+7777,Incuspaze HK,Default,09:16,11:57,20,Present ,09:16:in(ME) 09:16:out(ME) 10:41:in(ME) 10:43:out(ME) 11:39:in(ME) 11:57:out(ME) ,10-01-2025
+Director,Director,Default,10:19,11:37,78,Present ,10:19:in(ME) 11:22:out(ME) 11:22:in(ME) 11:24:out(ME) 11:24:in(ME) 11:37:out(ME) 11:37:in(ME) ,10-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,09:37,09:37,0,Absent,09:37:in(ME) ,10-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,10-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,10-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,10-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,10-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,10-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,10-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,10:19,11:46,58,Present ,10:19:in(ME) 10:26:out(ME) 10:45:in(ME) 11:36:out(ME) 11:46:in(ME) ,10-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:52,10:52,0,Absent,10:52:in(ME) ,10-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,Absent,,10-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:39,11:22,43,Present ,10:39:in(ME) 11:22:out(ME) ,10-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:46,09:46,0,Absent,09:46:in(ME) ,10-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,00:00,00:00,0,Absent,,10-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,10-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,10-01-2025
+ISCSI039,Naveen Pagote,PSS,09:38,09:38,0,Absent,09:38:in(ME) ,10-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:26,09:26,0,Absent,09:26:in(ME) ,10-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,Absent,,10-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,10-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,10:19,11:22,63,Present ,10:19:in(ME) 11:17:out(ME) 11:17:in(ME) 11:22:out(ME) ,10-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,10-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:47,09:47,0,Absent,09:47:in(ME) ,10-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,Absent,,10-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,08:55,11:50,175,Present ,08:55:in(ME) 11:50:out(ME) ,10-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,11:27,11:27,0,Absent,11:27:in(ME) ,10-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:47,09:47,0,Absent,09:47:in(ME) ,10-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,10-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:41,09:41,0,Absent,09:41:in(ME) ,10-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,11:37,11:37,0,Absent,11:37:in(ME) ,10-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:37,11:50,133,Present ,09:37:in(ME) 11:50:out(ME) ,10-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,10-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:37,09:37,0,Absent,09:37:in(ME) ,10-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,11:09,11:09,0,Absent,11:09:in(ME) ,10-01-2025
+ISCSI084,Divya,HR & Admin,11:38,11:38,0,Absent,11:38:in(ME) ,10-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,10:51,10:51,0,Absent,10:51:in(ME) ,10-01-2025
+999,Incuspaze Service,Default,09:41,17:37,0,Absent,09:41:in(ME) 09:41:out(ME) 17:37:in(ME) ,09-01-2025
+7777,Incuspaze HK,Default,09:41,21:25,561,Present ,09:41:in(ME) 09:42:out(ME) 10:27:in(ME) 18:55:out(ME) 19:11:in(ME) 19:58:out(ME) 19:59:in(ME) 20:04:out(ME) 21:25:in(ME) ,09-01-2025
+Director,Director,Default,10:40,16:29,349,Present ,10:40:in(ME) 16:29:out(ME) ,09-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,10:11,18:42,348,Present ,10:11:in(ME) 12:35:out(ME) 12:39:in(ME) 15:30:out(ME) 15:38:in(ME) 16:11:out(ME) 18:42:in(ME) 18:42:out(ME) ,09-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,09-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,09-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,09-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,09-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,09-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,09-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,12:18,19:14,257,Present ,12:18:in(ME) 14:04:out(ME) 14:09:in(ME) 14:27:out(ME) 15:07:in(ME) 15:08:out(ME) 15:15:in(ME) 15:22:out(ME) 15:52:in(ME) 15:55:out(ME) 16:12:in(ME) 16:29:out(ME) 16:32:in(ME) 16:41:out(ME) 16:41:in(ME) 17:23:out(ME) 18:20:in(ME) 19:14:out(ME) ,09-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:39,19:09,412,Present ,10:39:in(ME) 14:28:out(ME) 15:07:in(ME) 16:40:out(ME) 16:42:in(ME) 17:23:out(ME) 18:20:in(ME) 19:09:out(ME) ,09-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,10:43,19:14,379,Present ,10:43:in(ME) 12:02:out(ME) 12:19:in(ME) 12:20:out(ME) 12:35:in(ME) 14:26:out(ME) 15:07:in(ME) 16:40:out(ME) 16:42:in(ME) 17:23:out(ME) 18:20:in(ME) 18:23:out(ME) 18:23:in(ME) 19:14:out(ME) ,09-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:34,19:02,458,Present ,10:34:in(ME) 13:36:out(ME) 14:14:in(ME) 15:57:out(ME) 16:09:in(ME) 19:02:out(ME) ,09-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:20,18:46,523,Present ,09:20:in(ME) 11:25:out(ME) 11:28:in(ME) 13:26:out(ME) 13:56:in(ME) 16:49:out(ME) 16:59:in(ME) 18:46:out(ME) ,09-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:30,19:08,443,Present ,09:30:in(ME) 10:12:out(ME) 10:21:in(ME) 10:44:out(ME) 10:51:in(ME) 11:09:out(ME) 11:28:in(ME) 11:45:out(ME) 12:11:in(ME) 12:50:out(ME) 12:55:in(ME) 13:36:out(ME) 13:52:in(ME) 14:42:out(ME) 14:52:in(ME) 15:08:out(ME) 15:15:in(ME) 15:41:out(ME) 15:43:in(ME) 15:48:out(ME) 15:52:in(ME) 16:24:out(ME) 16:32:in(ME) 16:36:out(ME) 16:38:in(ME) 17:28:out(ME) 17:46:in(ME) 18:11:out(ME) 18:13:in(ME) 18:48:out(ME) 18:48:in(ME) 19:08:out(ME) ,09-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,09-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,09-01-2025
+ISCSI039,Naveen Pagote,PSS,09:39,18:46,527,Present ,09:39:in(ME) 13:30:out(ME) 13:50:in(ME) 18:46:out(ME) ,09-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:31,18:46,476,Present ,09:31:in(ME) 10:27:out(ME) 10:27:in(ME) 13:40:out(ME) 14:02:in(ME) 14:29:out(ME) 14:38:in(ME) 15:32:out(ME) 15:40:in(ME) 17:04:out(ME) 17:44:in(ME) 18:46:out(ME) ,09-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,12:13,19:07,414,Present ,12:13:in(ME) 19:07:out(ME) ,09-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,09-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,10:07,19:02,499,Present ,10:07:in(ME) 13:38:out(ME) 14:14:in(ME) 19:02:out(ME) ,09-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,09-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:34,19:00,537,Present ,09:34:in(ME) 13:27:out(ME) 13:56:in(ME) 19:00:out(ME) ,09-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,10:29,18:48,473,Present ,10:29:in(ME) 12:52:out(ME) 13:14:in(ME) 15:40:out(ME) 15:44:in(ME) 18:48:out(ME) ,09-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,08:42,21:16,690,Present ,08:42:in(ME) 09:46:out(ME) 09:46:in(ME) 13:40:out(ME) 14:02:in(ME) 15:32:out(ME) 15:32:in(ME) 17:02:out(ME) 17:44:in(ME) 21:16:out(ME) ,09-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,10:40,18:42,428,Present ,10:40:in(ME) 12:51:out(ME) 13:08:in(ME) 15:24:out(ME) 15:38:in(ME) 16:11:out(ME) 16:34:in(ME) 18:42:out(ME) ,09-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:42,19:00,538,Present ,09:42:in(ME) 13:30:out(ME) 13:50:in(ME) 19:00:out(ME) ,09-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,09-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:49,18:42,446,Present ,09:49:in(ME) 11:32:out(ME) 11:54:in(ME) 12:52:out(ME) 13:14:in(ME) 13:41:out(ME) 14:02:in(ME) 16:12:out(ME) 16:34:in(ME) 18:42:out(ME) ,09-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:27,21:16,46,Present ,10:27:in(ME) 10:27:out(ME) 11:30:in(ME) 11:54:out(ME) 16:12:in(ME) 16:34:out(ME) 21:16:in(ME) ,09-01-2025
+ISCSI072,Sankalp Chenna,Dev,10:27,21:16,24,Present ,10:27:in(ME) 10:27:out(ME) 11:30:in(ME) 11:54:out(ME) 21:16:in(ME) ,09-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,09-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:47,20:16,628,Present ,09:47:in(ME) 14:02:out(ME) 14:02:in(ME) 16:36:out(ME) 16:37:in(ME) 20:16:out(ME) ,09-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,11:53,19:18,426,Present ,11:53:in(ME) 16:15:out(ME) 16:34:in(ME) 19:18:out(ME) ,09-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,11:36,16:57,321,Present ,11:36:in(ME) 16:57:out(ME) ,09-01-2025
+999,Incuspaze Service,Default,08:18,19:44,1,Present ,08:18:in(ME) 08:19:out(ME) 19:44:in(ME) 19:44:out(ME) ,08-01-2025
+7777,Incuspaze HK,Default,08:18,20:12,351,Present ,08:18:in(ME) 09:17:out(ME) 09:17:in(ME) 09:46:out(ME) 09:46:in(ME) 10:49:out(ME) 11:07:in(ME) 13:59:out(ME) 19:44:in(ME) 20:12:out(ME) ,08-01-2025
+Director,Director,Default,11:08,16:14,239,폩resent(Due to Continous Late),11:08:in(ME) 13:35:out(ME) 14:42:in(ME) 16:14:out(ME) ,08-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,10:17,18:53,470,Present ,10:17:in(ME) 16:47:out(ME) 17:28:in(ME) 17:50:out(ME) 17:52:in(ME) 18:03:out(ME) 18:05:in(ME) 18:50:out(ME) 18:51:in(ME) 18:53:out(ME) ,08-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,08-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,08-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,08-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,08-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,08-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,08-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,Absent,,08-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:37,18:42,411,Present ,10:37:in(ME) 13:42:out(ME) 14:13:in(ME) 14:51:out(ME) 15:34:in(ME) 18:42:out(ME) ,08-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,11:31,18:40,304,Present ,11:31:in(ME) 13:04:out(ME) 13:20:in(ME) 13:42:out(ME) 14:13:in(ME) 14:16:out(ME) 15:34:in(ME) 18:40:out(ME) ,08-01-2025
+ISCSI005,Vinitha Rudra,PSS,13:51,18:40,195,Present ,13:51:in(ME) 14:06:out(ME) 14:42:in(ME) 16:14:out(ME) 17:12:in(ME) 18:40:out(ME) ,08-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:32,18:31,500,Present ,09:32:in(ME) 13:28:out(ME) 13:54:in(ME) 16:21:out(ME) 16:34:in(ME) 18:31:out(ME) ,08-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:35,18:30,333,Present ,09:35:in(ME) 10:09:out(ME) 10:13:in(ME) 10:16:out(ME) 10:18:in(ME) 10:19:out(ME) 10:20:in(ME) 10:35:out(ME) 10:37:in(ME) 10:45:out(ME) 10:57:in(ME) 11:09:out(ME) 11:17:in(ME) 11:20:out(ME) 11:44:in(ME) 12:04:out(ME) 12:05:in(ME) 12:14:out(ME) 12:16:in(ME) 12:20:out(ME) 12:23:in(ME) 12:44:out(ME) 12:57:in(ME) 13:00:out(ME) 13:03:in(ME) 13:32:out(ME) 13:51:in(ME) 14:18:out(ME) 14:42:in(ME) 14:52:out(ME) 14:59:in(ME) 15:27:out(ME) 15:46:in(ME) 16:02:out(ME) 16:10:in(ME) 16:36:out(ME) 17:07:in(ME) 17:31:out(ME) 17:44:in(ME) 17:44:out(ME) 17:46:in(ME) 18:01:out(ME) 18:05:in(ME) 18:30:out(ME) ,08-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,08-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,08-01-2025
+ISCSI039,Naveen Pagote,PSS,09:35,18:33,485,Present ,09:35:in(ME) 13:28:out(ME) 13:55:in(ME) 16:37:out(ME) 17:03:in(ME) 18:33:out(ME) ,08-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:32,18:35,464,Present ,09:32:in(ME) 11:22:out(ME) 11:40:in(ME) 12:44:out(ME) 13:03:in(ME) 13:36:out(ME) 14:05:in(ME) 15:49:out(ME) 15:58:in(ME) 16:26:out(ME) 16:29:in(ME) 18:11:out(ME) 18:12:in(ME) 18:35:out(ME) ,08-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:16,19:08,472,Present ,11:16:in(ME) 19:08:out(ME) ,08-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,08-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,11:56,18:35,275,Present ,11:56:in(ME) 13:35:out(ME) 14:42:in(ME) 16:15:out(ME) 17:12:in(ME) 18:35:out(ME) ,08-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,08-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:42,18:31,490,Present ,09:42:in(ME) 13:28:out(ME) 13:54:in(ME) 16:21:out(ME) 16:34:in(ME) 18:31:out(ME) ,08-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,10:05,18:40,281,폩resent(Due to Continous Late),10:05:in(ME) 10:54:out(ME) 10:58:in(ME) 11:17:out(ME) 11:18:in(ME) 14:16:out(ME) 14:16:in(ME) 14:51:out(ME) 18:40:in(ME) 18:40:out(ME) ,08-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,08:35,19:51,623,Present ,08:35:in(ME) 13:36:out(ME) 14:05:in(ME) 16:26:out(ME) 16:29:in(ME) 16:42:out(ME) 17:02:in(ME) 18:11:out(ME) 18:12:in(ME) 18:13:out(ME) 18:13:in(ME) 19:51:out(ME) ,08-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,11:33,18:32,394,Present ,11:33:in(ME) 13:39:out(ME) 14:04:in(ME) 16:44:out(ME) 16:44:in(ME) 18:32:out(ME) ,08-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:42,18:33,483,Present ,09:42:in(ME) 13:33:out(ME) 13:55:in(ME) 16:37:out(ME) 17:03:in(ME) 18:33:out(ME) ,08-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,08-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:46,18:32,81,Present ,09:46:in(ME) 09:46:out(ME) 11:22:in(ME) 11:40:out(ME) 13:37:in(ME) 13:39:out(ME) 13:39:in(ME) 14:04:out(ME) 16:26:in(ME) 16:44:out(ME) 16:44:in(ME) 17:02:out(ME) 18:32:in(ME) ,08-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:12,10:12,0,Absent,10:12:in(ME) ,08-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:34,17:02,425,Present ,09:34:in(ME) 16:26:out(ME) 16:29:in(ME) 16:42:out(ME) 17:02:in(ME) ,08-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,08-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:13,18:41,568,Present ,09:13:in(ME) 18:41:out(ME) ,08-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,11:16,19:09,432,Present ,11:16:in(ME) 16:47:out(ME) 17:28:in(ME) 19:09:out(ME) ,08-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Absent,,08-01-2025
+999,Incuspaze Service,Default,08:56,08:56,0,Absent,08:56:in(ME) ,07-01-2025
+7777,Incuspaze HK,Default,00:14,21:17,533,Present ,00:14:in(ME) 08:56:out(ME) 10:35:in(ME) 10:43:out(ME) 19:49:in(ME) 19:52:out(ME) 21:17:in(ME) ,07-01-2025
+Director,Director,Default,10:39,15:28,289,Present ,10:39:in(ME) 15:28:out(ME) ,07-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,10:31,18:58,489,Present ,10:31:in(ME) 15:43:out(ME) 16:01:in(ME) 18:58:out(ME) ,07-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,07-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,07-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,07-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,07-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,07-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,07-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,14:24,19:19,199,Present ,14:24:in(ME) 15:02:out(ME) 15:39:in(ME) 15:48:out(ME) 15:56:in(ME) 17:02:out(ME) 17:53:in(ME) 19:19:out(ME) ,07-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:10,19:16,232,Present ,10:10:in(ME) 10:36:out(ME) 14:24:in(ME) 15:02:out(ME) 15:39:in(ME) 17:04:out(ME) 17:53:in(ME) 19:16:out(ME) ,07-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,11:03,20:18,520,Present ,11:03:in(ME) 15:03:out(ME) 15:38:in(ME) 20:18:out(ME) ,07-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:39,18:41,378,Present ,10:39:in(ME) 13:38:out(ME) 14:29:in(ME) 16:43:out(ME) 16:49:in(ME) 16:58:out(ME) 17:00:in(ME) 17:02:out(ME) 17:47:in(ME) 18:41:out(ME) ,07-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:34,18:33,502,Present ,09:34:in(ME) 13:20:out(ME) 13:53:in(ME) 18:00:out(ME) 18:04:in(ME) 18:33:out(ME) ,07-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:45,18:30,368,Present ,09:45:in(ME) 10:06:out(ME) 10:07:in(ME) 10:17:out(ME) 10:19:in(ME) 10:24:out(ME) 10:34:in(ME) 10:45:out(ME) 10:50:in(ME) 11:01:out(ME) 11:03:in(ME) 11:50:out(ME) 12:08:in(ME) 12:16:out(ME) 12:28:in(ME) 12:51:out(ME) 12:55:in(ME) 13:43:out(ME) 14:00:in(ME) 14:38:out(ME) 14:40:in(ME) 14:57:out(ME) 15:04:in(ME) 15:18:out(ME) 15:33:in(ME) 15:42:out(ME) 15:56:in(ME) 15:58:out(ME) 16:00:in(ME) 16:09:out(ME) 16:27:in(ME) 16:41:out(ME) 16:42:in(ME) 17:16:out(ME) 17:32:in(ME) 17:50:out(ME) 17:54:in(ME) 18:20:out(ME) 18:27:in(ME) 18:30:out(ME) ,07-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,07-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,07-01-2025
+ISCSI039,Naveen Pagote,PSS,09:41,18:33,506,Present ,09:41:in(ME) 13:28:out(ME) 13:54:in(ME) 18:33:out(ME) ,07-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,10:21,18:34,431,Present ,10:21:in(ME) 15:43:out(ME) 16:01:in(ME) 17:33:out(ME) 18:17:in(ME) 18:34:out(ME) ,07-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:31,18:53,442,Present ,11:31:in(ME) 18:53:out(ME) ,07-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,07-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,11:31,18:41,328,Present ,11:31:in(ME) 12:37:out(ME) 12:39:in(ME) 13:38:out(ME) 14:29:in(ME) 16:06:out(ME) 16:06:in(ME) 16:59:out(ME) 17:47:in(ME) 18:23:out(ME) 18:24:in(ME) 18:41:out(ME) ,07-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,07-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:42,18:35,499,Present ,09:42:in(ME) 13:20:out(ME) 13:53:in(ME) 18:33:out(ME) 18:34:in(ME) 18:35:out(ME) ,07-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,10:13,19:13,134,Present ,10:13:in(ME) 10:25:out(ME) 14:24:in(ME) 15:06:out(ME) 17:02:in(ME) 17:02:out(ME) 17:53:in(ME) 19:13:out(ME) ,07-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,08:44,20:10,621,Present ,08:44:in(ME) 12:47:out(ME) 12:49:in(ME) 12:50:out(ME) 13:16:in(ME) 13:53:out(ME) 14:16:in(ME) 19:30:out(ME) 19:32:in(ME) 19:33:out(ME) 19:45:in(ME) 20:10:out(ME) ,07-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,11:38,18:57,400,Present ,11:38:in(ME) 12:50:out(ME) 13:03:in(ME) 14:01:out(ME) 14:27:in(ME) 17:20:out(ME) 17:20:in(ME) 18:57:out(ME) ,07-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:38,18:33,509,Present ,09:38:in(ME) 13:28:out(ME) 13:54:in(ME) 18:33:out(ME) ,07-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,07-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:46,13:03,181,Present ,09:46:in(ME) 12:47:out(ME) 13:03:in(ME) ,07-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:08,20:54,417,Present ,10:08:in(ME) 10:36:out(ME) 14:23:in(ME) 18:29:out(ME) 18:30:in(ME) 18:30:out(ME) 18:31:in(ME) 20:54:out(ME) ,07-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:38,20:57,632,Present ,09:38:in(ME) 12:47:out(ME) 13:16:in(ME) 17:59:out(ME) 18:17:in(ME) 20:57:out(ME) ,07-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,07-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:09,18:43,574,Present ,09:09:in(ME) 14:16:out(ME) 14:16:in(ME) 18:43:out(ME) ,07-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,11:21,18:58,433,폩resent(Due to Continous Late),11:21:in(ME) 14:03:out(ME) 14:27:in(ME) 18:58:out(ME) ,07-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,11:18,17:43,317,Present ,11:18:in(ME) 12:25:out(ME) 12:25:in(ME) 13:45:out(ME) 14:18:in(ME) 15:44:out(ME) 16:01:in(ME) 16:02:out(ME) 16:20:in(ME) 16:24:out(ME) 16:24:in(ME) 17:43:out(ME) ,07-01-2025
+999,Incuspaze Service,Default,09:06,17:54,36,Present ,09:06:in(ME) 09:06:out(ME) 17:18:in(ME) 17:54:out(ME) ,06-01-2025
+7777,Incuspaze HK,Default,09:06,22:14,788,Present ,09:06:in(ME) 22:14:out(ME) ,06-01-2025
+Director,Director,Default,10:50,15:38,253,Present ,10:50:in(ME) 13:49:out(ME) 14:24:in(ME) 15:38:out(ME) ,06-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,10:16,19:21,461,Present ,10:16:in(ME) 11:50:out(ME) 13:00:in(ME) 13:09:out(ME) 13:23:in(ME) 13:38:out(ME) 13:38:in(ME) 19:21:out(ME) ,06-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,06-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,06-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,06-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,06-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,06-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,06-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,13:18,16:14,94,Present ,13:18:in(ME) 14:31:out(ME) 15:16:in(ME) 15:17:out(ME) 15:45:in(ME) 15:51:out(ME) 16:00:in(ME) 16:14:out(ME) ,06-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:38,19:52,479,Present ,10:38:in(ME) 14:31:out(ME) 15:46:in(ME) 19:52:out(ME) ,06-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,10:30,19:20,278,Present ,10:30:in(ME) 10:56:out(ME) 13:53:in(ME) 14:31:out(ME) 15:46:in(ME) 19:20:out(ME) ,06-01-2025
+ISCSI005,Vinitha Rudra,PSS,10:44,18:33,345,Present ,10:44:in(ME) 13:32:out(ME) 14:24:in(ME) 16:21:out(ME) 17:33:in(ME) 18:33:out(ME) ,06-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:26,18:30,485,Present ,09:26:in(ME) 13:02:out(ME) 13:56:in(ME) 16:32:out(ME) 16:37:in(ME) 18:30:out(ME) ,06-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,10:15,18:30,351,Present ,10:15:in(ME) 10:40:out(ME) 10:40:in(ME) 10:46:out(ME) 10:50:in(ME) 11:09:out(ME) 11:22:in(ME) 12:02:out(ME) 12:12:in(ME) 12:20:out(ME) 12:28:in(ME) 12:38:out(ME) 12:38:in(ME) 14:09:out(ME) 14:42:in(ME) 15:51:out(ME) 16:00:in(ME) 16:04:out(ME) 16:12:in(ME) 16:30:out(ME) 17:08:in(ME) 17:13:out(ME) 17:20:in(ME) 17:40:out(ME) 17:45:in(ME) 17:51:out(ME) 17:53:in(ME) 18:14:out(ME) 18:21:in(ME) 18:30:out(ME) ,06-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,06-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,06-01-2025
+ISCSI039,Naveen Pagote,PSS,09:37,18:33,490,Present ,09:37:in(ME) 13:26:out(ME) 13:47:in(ME) 16:38:out(ME) 17:03:in(ME) 18:33:out(ME) ,06-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:27,18:44,533,Present ,09:27:in(ME) 13:42:out(ME) 14:06:in(ME) 18:44:out(ME) ,06-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:29,19:08,459,Present ,11:29:in(ME) 19:08:out(ME) ,06-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,06-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,10:07,18:33,370,Present ,10:07:in(ME) 10:29:out(ME) 10:40:in(ME) 11:57:out(ME) 11:57:in(ME) 12:09:out(ME) 12:10:in(ME) 12:59:out(ME) 12:59:in(ME) 13:32:out(ME) 14:24:in(ME) 16:21:out(ME) 17:33:in(ME) 18:33:out(ME) ,06-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,06-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:22,18:31,494,Present ,09:22:in(ME) 13:01:out(ME) 13:56:in(ME) 18:31:out(ME) ,06-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,10:22,19:52,399,Present ,10:22:in(ME) 11:36:out(ME) 11:36:in(ME) 11:37:out(ME) 11:38:in(ME) 11:40:out(ME) 11:40:in(ME) 12:36:out(ME) 12:38:in(ME) 12:38:out(ME) 13:02:in(ME) 13:04:out(ME) 14:31:in(ME) 14:31:out(ME) 15:05:in(ME) 15:29:out(ME) 15:45:in(ME) 15:47:out(ME) 15:48:in(ME) 19:46:out(ME) 19:52:in(ME) 19:52:out(ME) ,06-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,08:27,21:32,713,Present ,08:27:in(ME) 12:38:out(ME) 13:02:in(ME) 13:42:out(ME) 14:06:in(ME) 20:19:out(ME) 20:43:in(ME) 21:32:out(ME) ,06-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,11:51,18:21,353,Present ,11:51:in(ME) 11:52:out(ME) 11:55:in(ME) 12:41:out(ME) 12:41:in(ME) 16:05:out(ME) 16:39:in(ME) 18:21:out(ME) ,06-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:47,18:33,481,Present ,09:47:in(ME) 13:25:out(ME) 13:47:in(ME) 16:40:out(ME) 17:03:in(ME) 18:33:out(ME) ,06-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,06-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:52,19:46,536,Present ,09:52:in(ME) 13:42:out(ME) 14:06:in(ME) 17:41:out(ME) 18:15:in(ME) 19:46:out(ME) ,06-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:28,21:31,594,Present ,10:28:in(ME) 11:54:out(ME) 12:15:in(ME) 17:41:out(ME) 18:29:in(ME) 21:31:out(ME) ,06-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:40,21:32,659,Present ,09:40:in(ME) 11:54:out(ME) 12:15:in(ME) 17:57:out(ME) 18:29:in(ME) 21:32:out(ME) ,06-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,06-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:03,20:01,654,Present ,09:03:in(ME) 15:54:out(ME) 15:58:in(ME) 20:01:out(ME) ,06-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,06-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,10:44,18:29,374,Present ,10:44:in(ME) 11:37:out(ME) 11:38:in(ME) 11:40:out(ME) 11:40:in(ME) 11:41:out(ME) 12:15:in(ME) 13:31:out(ME) 13:54:in(ME) 14:25:out(ME) 14:25:in(ME) 15:29:out(ME) 15:46:in(ME) 17:08:out(ME) 17:24:in(ME) 17:31:out(ME) 17:31:in(ME) 18:29:out(ME) ,06-01-2025
+999,Incuspaze Service,Default,00:00,00:00,0,WeeklyOff ,,05-01-2025
+7777,Incuspaze HK,Default,19:58,19:58,0,WeeklyOff ,19:58:in(ME) ,05-01-2025
+Director,Director,Default,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI039,Naveen Pagote,PSS,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI069,Lodem Rakesh,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI072,Sankalp Chenna,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,WeeklyOff ,,05-01-2025
+999,Incuspaze Service,Default,16:57,18:09,72,WeeklyOff Present ,16:57:in(ME) 18:09:out(ME) ,04-01-2025
+7777,Incuspaze HK,Default,00:00,00:00,0,WeeklyOff ,,04-01-2025
+Director,Director,Default,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,10:31,15:38,289,WeeklyOff Present ,10:31:in(ME) 12:20:out(ME) 12:38:in(ME) 15:38:out(ME) ,04-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,12:13,15:38,181,WeeklyOff Present ,12:13:in(ME) 12:15:out(ME) 12:38:in(ME) 12:55:out(ME) 12:56:in(ME) 15:38:out(ME) ,04-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI039,Naveen Pagote,PSS,09:51,15:38,328,WeeklyOff Present ,09:51:in(ME) 12:13:out(ME) 12:13:in(ME) 13:49:out(ME) 13:50:in(ME) 14:45:out(ME) 15:03:in(ME) 15:38:out(ME) ,04-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI069,Lodem Rakesh,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI072,Sankalp Chenna,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,WeeklyOff ,,04-01-2025
+999,Incuspaze Service,Default,08:54,17:52,523,Present ,08:54:in(ME) 08:54:out(ME) 08:54:in(ME) 17:22:out(Technical Room) 17:30:in(ME) 17:45:out(Technical Room) 17:52:in(ME) ,03-01-2025
+7777,Incuspaze HK,Default,08:54,22:03,663,폩resent(Due to Continous Late),08:54:in(ME) 08:54:out(ME) 10:05:in(Technical Room) 10:12:out(Technical Room) 10:12:in(Technical Room) 10:28:out(Technical Room) 10:30:in(Technical Room) 10:34:out(ME) 10:38:in(ME) 11:18:out(ME) 11:27:in(Technical Room) 11:29:out(Technical Room) 11:37:in(ME) 18:24:out(Technical Room) 18:24:in(Technical Room) 18:28:out(ME) 18:28:in(ME) 18:30:out(ME) 18:32:in(ME) 19:55:out(ME) 20:25:in(ME) 22:03:out(ME) ,03-01-2025
+Director,Director,Default,00:00,00:00,0,Absent,,03-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,10:15,18:34,496,Present ,10:15:in(ME) 13:34:out(Technical Room) 13:35:in(Technical Room) 18:23:out(Technical Room) 18:25:in(Technical Room) 18:34:out(ME) ,03-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,03-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,03-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,10:14,18:15,424,Present ,10:14:in(ME) 13:08:out(Technical Room) 13:28:in(Technical Room) 14:38:out(Technical Room) 14:39:in(Technical Room) 14:47:out(ME) 15:22:in(ME) 18:03:out(Technical Room) 18:04:in(Technical Room) 18:15:out(ME) ,03-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,03-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,03-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,03-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,11:09,17:02,167,Present ,11:09:in(Technical Room) 11:14:out(ME) 11:26:in(Technical Room) 12:12:out(ME) 12:49:in(ME) 12:54:out(ME) 14:15:in(ME) 14:31:out(ME) 14:34:in(ME) 14:51:out(ME) 14:56:in(ME) 15:35:out(ME) 15:37:in(ME) 15:39:out(Technical Room) 15:54:in(Technical Room) 16:25:out(ME) 16:43:in(ME) 16:49:out(ME) 17:02:in(ME) 17:02:out(ME) ,03-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,10:14,18:40,373,Present ,10:14:in(ME) 11:06:out(Technical Room) 11:27:in(Technical Room) 12:00:out(Technical Room) 12:02:in(Technical Room) 13:03:out(Technical Room) 13:04:in(Technical Room) 13:12:out(ME) 13:22:in(ME) 13:36:out(Technical Room) 14:01:in(Technical Room) 14:02:out(Technical Room) 14:04:in(Technical Room) 14:14:out(ME) 14:35:in(ME) 15:43:out(Technical Room) 15:54:in(Technical Room) 17:05:out(Technical Room) 17:07:in(Technical Room) 17:18:out(ME) 17:51:in(ME) 18:12:out(Technical Room) 18:14:in(Technical Room) 18:29:out(Technical Room) 18:32:in(Technical Room) 18:40:out(ME) ,03-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,10:43,18:40,325,Present ,10:43:in(ME) 11:06:out(Technical Room) 11:26:in(Technical Room) 12:35:out(Technical Room) 12:38:in(Technical Room) 12:55:out(ME) 14:16:in(ME) 15:39:out(Technical Room) 15:54:in(Technical Room) 17:18:out(ME) 17:51:in(ME) 18:40:out(ME) ,03-01-2025
+ISCSI005,Vinitha Rudra,PSS,11:46,18:30,365,Present ,11:46:in(Technical Room) 11:47:out(Technical Room) 11:49:in(ME) 15:34:out(Technical Room) 15:40:in(Technical Room) 15:42:out(Technical Room) 15:45:in(Technical Room) 16:27:out(Technical Room) 16:44:in(Technical Room) 16:47:out(Technical Room) 16:52:in(Technical Room) 17:38:out(Technical Room) 17:43:in(Technical Room) 18:17:out(Technical Room) 18:18:in(Technical Room) 18:30:out(ME) ,03-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:29,18:30,458,Present ,09:29:in(Technical Room) 09:31:out(ME) 09:33:in(Technical Room) 09:45:out(Technical Room) 09:48:in(Technical Room) 11:05:out(Technical Room) 11:06:in(Technical Room) 12:01:out(Technical Room) 12:05:in(Technical Room) 12:48:out(Technical Room) 12:50:in(Technical Room) 12:59:out(ME) 13:50:in(ME) 15:56:out(Technical Room) 15:59:in(ME) 16:02:out(ME) 16:15:in(Technical Room) 16:33:out(Technical Room) 16:35:in(Technical Room) 18:07:out(Technical Room) 18:09:in(Technical Room) 18:30:out(ME) ,03-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:14,18:29,361,Present ,09:14:in(ME) 10:02:out(ME) 10:06:in(ME) 10:08:out(Technical Room) 10:10:in(Technical Room) 10:19:out(ME) 10:23:in(ME) 10:27:out(ME) 10:28:in(ME) 10:34:out(ME) 10:38:in(ME) 10:52:out(Technical Room) 10:53:in(Technical Room) 10:55:out(ME) 10:56:in(ME) 11:00:out(Technical Room) 11:01:in(Technical Room) 11:01:out(ME) 11:04:in(ME) 11:10:out(ME) 11:14:in(ME) 11:16:out(ME) 11:17:in(ME) 11:34:out(Technical Room) 11:35:in(Technical Room) 11:37:out(ME) 11:40:in(ME) 11:45:out(ME) 11:47:in(ME) 12:29:out(ME) 12:34:in(ME) 12:34:out(Technical Room) 12:37:in(Technical Room) 12:44:out(ME) 12:49:in(ME) 12:55:out(ME) 14:16:in(ME) 14:26:out(Technical Room) 14:27:in(Technical Room) 14:31:out(ME) 14:33:in(ME) 15:15:out(Technical Room) 15:16:in(Technical Room) 15:34:out(ME) 15:49:in(ME) 15:54:out(ME) 16:04:in(ME) 16:24:out(ME) 16:40:in(Technical Room) 16:42:out(Technical Room) 16:43:in(ME) 16:45:out(ME) 16:47:in(ME) 16:50:out(ME) 17:00:in(ME) 17:27:out(ME) 17:31:in(ME) 17:39:out(ME) 17:39:in(ME) 17:51:out(Technical Room) 17:52:in(Technical Room) 18:03:out(ME) 18:06:in(ME) 18:15:out(Technical Room) 18:17:in(Technical Room) 18:29:out(ME) ,03-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,03-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,03-01-2025
+ISCSI039,Naveen Pagote,PSS,09:37,18:32,464,Present ,09:37:in(ME) 09:39:out(Technical Room) 09:44:in(Technical Room) 10:44:out(Technical Room) 10:47:in(Technical Room) 12:13:out(Technical Room) 12:16:in(Technical Room) 12:50:out(Technical Room) 13:16:in(Technical Room) 13:25:out(ME) 13:44:in(Technical Room) 13:45:out(Technical Room) 13:50:in(ME) 14:56:out(Technical Room) 14:58:in(Technical Room) 15:53:out(Technical Room) 15:54:in(Technical Room) 17:07:out(Technical Room) 17:10:in(Technical Room) 18:15:out(Technical Room) 18:18:in(Technical Room) 18:23:out(Technical Room) 18:24:in(Technical Room) 18:32:out(ME) ,03-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:28,20:08,412,Present ,09:28:in(ME) 10:09:out(Technical Room) 10:30:in(Technical Room) 12:51:out(Technical Room) 13:16:in(Technical Room) 13:27:out(ME) 13:56:in(ME) 14:33:out(ME) 16:13:in(Technical Room) 16:15:out(Technical Room) 16:47:in(ME) 16:47:out(ME) 17:08:in(ME) 20:08:out(ME) ,03-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,10:48,18:54,426,Present ,10:48:in(ME) 11:51:out(ME) 12:35:in(ME) 13:22:out(Technical Room) 13:34:in(Technical Room) 14:00:out(Technical Room) 14:02:in(Technical Room) 17:39:out(Technical Room) 17:41:in(Technical Room) 18:54:out(ME) ,03-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,03-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,09:47,18:59,427,Present ,09:47:in(ME) 10:16:out(ME) 10:22:in(ME) 11:11:out(Technical Room) 11:14:in(Technical Room) 11:56:out(Technical Room) 11:59:in(Technical Room) 12:31:out(ME) 12:32:in(ME) 12:39:out(Technical Room) 12:41:in(Technical Room) 12:55:out(ME) 14:11:in(ME) 16:07:out(ME) 16:11:in(ME) 16:27:out(Technical Room) 16:44:in(Technical Room) 16:59:out(ME) 17:02:in(ME) 17:02:out(ME) 17:02:in(ME) 17:06:out(ME) 17:08:in(Technical Room) 17:09:out(Technical Room) 17:10:in(ME) 17:10:out(ME) 17:14:in(ME) 17:31:out(ME) 17:34:in(ME) 18:33:out(ME) 18:33:in(ME) 18:59:out(ME) ,03-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,03-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:42,18:30,433,Present ,09:42:in(Technical Room) 09:46:out(ME) 09:49:in(Technical Room) 10:59:out(Technical Room) 11:00:in(Technical Room) 12:30:out(Technical Room) 12:31:in(Technical Room) 12:59:out(ME) 13:50:in(ME) 13:53:out(Technical Room) 13:55:in(Technical Room) 15:35:out(Technical Room) 15:36:in(Technical Room) 15:56:out(Technical Room) 16:15:in(Technical Room) 16:30:out(Technical Room) 16:34:in(Technical Room) 17:08:out(ME) 17:14:in(ME) 17:38:out(Technical Room) 17:43:in(Technical Room) 18:13:out(Technical Room) 18:15:in(Technical Room) 18:30:out(ME) ,03-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,10:18,20:08,351,폩resent(Due to Continous Late),10:18:in(ME) 10:31:out(Technical Room) 10:33:in(Technical Room) 10:57:out(ME) 12:50:in(Technical Room) 12:51:out(Technical Room) 12:57:in(ME) 12:59:out(ME) 14:15:in(ME) 15:24:out(Technical Room) 15:25:in(Technical Room) 15:37:out(ME) 15:37:in(ME) 17:00:out(Technical Room) 17:01:in(Technical Room) 17:18:out(ME) 17:51:in(ME) 18:31:out(ME) 18:38:in(ME) 20:08:out(ME) ,03-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,08:32,20:08,648,Present ,08:32:in(ME) 10:09:out(Technical Room) 10:30:in(Technical Room) 10:57:out(ME) 11:22:in(ME) 14:18:out(ME) 14:18:in(ME) 14:20:out(ME) 14:21:in(ME) 19:30:out(ME) 19:31:in(ME) 20:08:out(ME) ,03-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,11:00,18:16,366,Present ,11:00:in(ME) 12:57:out(ME) 13:09:in(Technical Room) 13:12:out(ME) 13:32:in(Technical Room) 14:45:out(ME) 15:21:in(ME) 17:45:out(Technical Room) 17:47:in(Technical Room) 18:16:out(ME) ,03-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:40,18:31,456,Present ,09:40:in(ME) 09:44:out(Technical Room) 09:45:in(Technical Room) 11:27:out(Technical Room) 11:31:in(Technical Room) 12:50:out(Technical Room) 13:14:in(Technical Room) 13:15:out(Technical Room) 13:17:in(Technical Room) 13:25:out(ME) 13:50:in(ME) 14:33:out(Technical Room) 14:36:in(Technical Room) 16:27:out(ME) 16:37:in(Technical Room) 16:40:out(Technical Room) 16:44:in(ME) 18:12:out(Technical Room) 18:14:in(Technical Room) 18:31:out(ME) ,03-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,03-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:57,18:31,470,Present ,09:57:in(ME) 10:09:out(Technical Room) 10:27:in(Technical Room) 12:51:out(Technical Room) 13:15:in(Technical Room) 13:50:out(Technical Room) 13:51:in(Technical Room) 17:09:out(Technical Room) 17:09:in(Technical Room) 17:56:out(Technical Room) 17:56:in(Technical Room) 17:56:out(Technical Room) 17:57:in(Technical Room) 18:22:out(Technical Room) 18:22:in(Technical Room) 18:31:out(ME) ,03-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,10:26,18:59,497,Present ,10:26:in(ME) 17:01:out(Technical Room) 17:05:in(Technical Room) 17:20:out(ME) 17:31:in(ME) 18:32:out(Technical Room) 18:33:in(Technical Room) 18:59:out(ME) ,03-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:34,20:08,576,Present ,09:34:in(ME) 11:53:out(Technical Room) 11:54:in(Technical Room) 12:51:out(Technical Room) 13:18:in(Technical Room) 15:00:out(Technical Room) 15:08:in(Technical Room) 16:46:out(ME) 17:01:in(Technical Room) 17:08:out(ME) 17:15:in(Technical Room) 20:08:out(ME) ,03-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,03-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:35,20:09,530,Present ,09:35:in(Technical Room) 09:38:out(Technical Room) 09:40:in(ME) 12:33:out(Technical Room) 12:54:in(Technical Room) 12:55:out(Technical Room) 13:17:in(Technical Room) 13:50:out(Technical Room) 13:51:in(Technical Room) 13:57:out(ME) 13:57:in(ME) 15:22:out(Technical Room) 15:47:in(Technical Room) 18:00:out(Technical Room) 18:33:in(Technical Room) 20:09:out(ME) ,03-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,11:57,19:47,397,Present ,11:57:in(ME) 13:09:out(Technical Room) 13:32:in(Technical Room) 14:45:out(ME) 15:22:in(ME) 17:43:out(Technical Room) 17:56:in(Technical Room) 19:47:out(ME) ,03-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,10:47,18:31,303,Present ,10:47:in(Technical Room) 10:50:out(ME) 10:58:in(Technical Room) 11:45:out(Technical Room) 11:48:in(Technical Room) 11:59:out(ME) 12:47:in(Technical Room) 12:50:out(Technical Room) 12:58:in(ME) 12:58:out(ME) 14:15:in(ME) 17:00:out(Technical Room) 17:06:in(Technical Room) 18:08:out(Technical Room) 18:18:in(Technical Room) 18:20:out(Technical Room) 18:21:in(Technical Room) 18:31:out(ME) ,03-01-2025
+999,Incuspaze Service,Default,07:52,19:51,718,Present ,07:52:in(ME) 09:53:out(ME) 09:53:in(ME) 19:50:out(ME) 19:51:in(ME) ,02-01-2025
+7777,Incuspaze HK,Default,09:53,19:52,76,Present ,09:53:in(ME) 09:53:out(ME) 11:47:in(Technical Room) 11:48:out(Technical Room) 11:54:in(ME) 11:56:out(ME) 12:09:in(ME) 12:15:out(Technical Room) 12:16:in(Technical Room) 12:24:out(ME) 15:57:in(Technical Room) 15:58:out(Technical Room) 16:04:in(ME) 16:06:out(ME) 17:59:in(Technical Room) 17:59:out(Technical Room) 18:06:in(ME) 18:06:out(ME) 18:53:in(ME) 19:47:out(Technical Room) 19:50:in(ME) 19:52:out(ME) ,02-01-2025
+Director,Director,Default,00:00,00:00,0,Absent,,02-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,10:15,18:31,453,Present ,10:15:in(Technical Room) 10:16:out(ME) 10:40:in(Technical Room) 12:21:out(Technical Room) 12:38:in(Technical Room) 16:06:out(ME) 16:06:in(ME) 17:34:out(Technical Room) 17:36:in(Technical Room) 18:31:out(ME) ,02-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,02-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Absent,,02-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,10:55,18:55,410,Present ,10:55:in(ME) 12:07:out(Technical Room) 12:10:in(Technical Room) 13:19:out(Technical Room) 13:37:in(Technical Room) 15:55:out(Technical Room) 15:56:in(Technical Room) 16:06:out(ME) 16:41:in(ME) 16:59:out(Technical Room) 17:11:in(Technical Room) 18:46:out(Technical Room) 18:47:in(Technical Room) 18:55:out(ME) ,02-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Absent,,02-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Absent,,02-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,02-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,10:44,16:34,148,Present ,10:44:in(ME) 11:26:out(Technical Room) 11:29:in(ME) 11:32:out(ME) 11:36:in(Technical Room) 11:53:out(ME) 12:24:in(ME) 12:46:out(Technical Room) 12:47:in(Technical Room) 12:48:out(Technical Room) 12:58:in(ME) 13:03:out(ME) 13:41:in(Technical Room) 13:42:out(Technical Room) 13:53:in(Technical Room) 14:22:out(Technical Room) 15:30:in(ME) 15:57:out(ME) 16:24:in(Technical Room) 16:25:out(Technical Room) 16:34:in(ME) ,02-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,Absent,,02-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,11:07,18:49,302,Present ,11:07:in(ME) 11:19:out(ME) 11:28:in(ME) 11:55:out(Technical Room) 12:00:in(Technical Room) 12:08:out(ME) 12:10:in(ME) 13:41:out(Technical Room) 13:44:in(Technical Room) 13:53:out(Technical Room) 14:22:in(Technical Room) 14:33:out(ME) 15:08:in(ME) 16:33:out(ME) 16:43:in(Technical Room) 16:57:out(Technical Room) 18:02:in(ME) 18:38:out(Technical Room) 18:40:in(Technical Room) 18:49:out(ME) ,02-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,Absent,,02-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,09:07,18:29,464,Present ,09:07:in(Technical Room) 09:10:out(Technical Room) 09:14:in(ME) 09:39:out(Technical Room) 09:53:in(Technical Room) 10:04:out(Technical Room) 10:05:in(Technical Room) 11:13:out(ME) 11:14:in(ME) 11:49:out(Technical Room) 11:50:in(Technical Room) 12:55:out(Technical Room) 13:13:in(Technical Room) 13:21:out(ME) 13:55:in(ME) 13:59:out(ME) 13:59:in(ME) 14:22:out(Technical Room) 14:24:in(Technical Room) 15:44:out(Technical Room) 16:01:in(Technical Room) 17:56:out(Technical Room) 18:02:in(Technical Room) 18:29:out(ME) ,02-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,09:21,18:29,365,Present ,09:21:in(ME) 09:40:out(Technical Room) 09:42:in(Technical Room) 10:02:out(Technical Room) 10:03:in(Technical Room) 10:11:out(ME) 10:18:in(Technical Room) 10:19:out(Technical Room) 10:23:in(Technical Room) 10:24:out(ME) 10:25:in(Technical Room) 10:44:out(ME) 10:47:in(ME) 11:05:out(Technical Room) 11:07:in(Technical Room) 11:17:out(ME) 11:19:in(ME) 11:42:out(ME) 11:46:in(ME) 12:17:out(Technical Room) 12:19:in(Technical Room) 12:55:out(Technical Room) 13:16:in(Technical Room) 13:31:out(Technical Room) 13:32:in(Technical Room) 13:49:out(ME) 14:10:in(ME) 14:32:out(ME) 15:02:in(Technical Room) 15:03:out(Technical Room) 15:09:in(ME) 15:36:out(Technical Room) 15:36:in(Technical Room) 15:46:out(ME) 15:57:in(ME) 16:07:out(Technical Room) 16:09:in(Technical Room) 16:34:out(ME) 17:18:in(Technical Room) 17:19:out(ME) 17:20:in(Technical Room) 17:34:out(ME) 17:41:in(ME) 17:54:out(ME) 18:03:in(ME) 18:14:out(Technical Room) 18:16:in(Technical Room) 18:29:out(ME) ,02-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Absent,,02-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,02-01-2025
+ISCSI039,Naveen Pagote,PSS,09:44,18:32,367,Present ,09:44:in(Technical Room) 09:49:out(ME) 09:49:in(Technical Room) 11:21:out(Technical Room) 11:23:in(Technical Room) 12:17:out(Technical Room) 12:18:in(Technical Room) 12:55:out(Technical Room) 13:16:in(Technical Room) 13:26:out(ME) 15:38:in(ME) 16:03:out(Technical Room) 16:05:in(Technical Room) 16:59:out(Technical Room) 17:00:in(Technical Room) 17:54:out(Technical Room) 17:55:in(Technical Room) 18:20:out(Technical Room) 18:21:in(Technical Room) 18:32:out(ME) ,02-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,09:40,18:33,452,Present ,09:40:in(ME) 10:31:out(Technical Room) 10:51:in(Technical Room) 12:19:out(ME) 12:39:in(ME) 13:11:out(Technical Room) 13:34:in(Technical Room) 17:09:out(ME) 17:22:in(Technical Room) 17:24:out(Technical Room) 17:29:in(ME) 17:32:out(ME) 17:32:in(ME) 18:33:out(ME) ,02-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,11:14,18:59,24,Present ,11:14:in(Technical Room) 11:17:out(ME) 13:01:in(Technical Room) 13:18:out(Technical Room) 15:07:in(Technical Room) 15:09:out(Technical Room) 17:24:in(Technical Room) 17:26:out(Technical Room) 18:59:in(ME) ,02-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Absent,,02-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,09:48,18:32,434,Present ,09:48:in(ME) 10:29:out(Technical Room) 10:41:in(Technical Room) 11:20:out(ME) 11:28:in(ME) 12:56:out(Technical Room) 13:17:in(Technical Room) 13:19:out(Technical Room) 13:21:in(Technical Room) 13:28:out(ME) 13:47:in(ME) 16:00:out(Technical Room) 16:13:in(Technical Room) 16:52:out(ME) 16:54:in(ME) 18:10:out(Technical Room) 18:23:in(Technical Room) 18:32:out(ME) ,02-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Absent,,02-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,09:39,18:31,213,Present ,09:39:in(Technical Room) 09:39:out(ME) 09:54:in(Technical Room) 11:10:out(Technical Room) 11:12:in(Technical Room) 12:42:out(Technical Room) 12:53:in(Technical Room) 13:13:out(Technical Room) 13:59:in(ME) 13:59:out(ME) 14:35:in(Technical Room) 14:37:out(Technical Room) 15:44:in(Technical Room) 15:52:out(Technical Room) 16:36:in(Technical Room) 16:37:out(Technical Room) 17:56:in(Technical Room) 18:01:out(Technical Room) 18:10:in(Technical Room) 18:21:out(Technical Room) 18:31:in(ME) ,02-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,10:05,18:51,283,Present ,10:05:in(ME) 10:57:out(ME) 10:58:in(ME) 11:03:out(Technical Room) 11:35:in(Technical Room) 11:55:out(Technical Room) 12:00:in(Technical Room) 13:44:out(Technical Room) 13:53:in(Technical Room) 14:25:out(Technical Room) 14:33:in(ME) 15:02:out(Technical Room) 15:08:in(ME) 15:12:out(Technical Room) 17:29:in(ME) 17:56:out(Technical Room) 18:02:in(ME) 18:09:out(Technical Room) 18:38:in(Technical Room) 18:40:out(Technical Room) 18:49:in(ME) 18:50:out(ME) 18:51:in(ME) ,02-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,08:26,20:49,679,Present ,08:26:in(ME) 13:11:out(ME) 13:13:in(ME) 13:13:out(ME) 13:13:in(ME) 14:13:out(Technical Room) 14:37:in(Technical Room) 14:51:out(ME) 15:12:in(ME) 15:49:out(Technical Room) 16:06:in(Technical Room) 20:49:out(ME) ,02-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,11:04,18:31,411,Present ,11:04:in(ME) 12:21:out(Technical Room) 12:38:in(Technical Room) 13:19:out(Technical Room) 13:36:in(Technical Room) 17:56:out(ME) 17:56:in(ME) 18:13:out(Technical Room) 18:15:in(Technical Room) 18:31:out(ME) ,02-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,09:37,18:32,464,Present ,09:37:in(ME) 09:46:out(Technical Room) 09:48:in(Technical Room) 11:24:out(Technical Room) 11:30:in(Technical Room) 12:55:out(Technical Room) 13:12:in(Technical Room) 13:26:out(ME) 13:47:in(ME) 15:26:out(Technical Room) 15:29:in(Technical Room) 16:09:out(ME) 16:28:in(ME) 18:05:out(Technical Room) 18:08:in(Technical Room) 18:32:out(ME) ,02-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Absent,,02-01-2025
+ISCSI069,Lodem Rakesh,Dev,09:24,18:31,314,Present ,09:24:in(ME) 10:05:out(Technical Room) 10:13:in(Technical Room) 10:15:out(Technical Room) 10:40:in(Technical Room) 12:20:out(ME) 12:39:in(ME) 13:11:out(Technical Room) 15:36:in(Technical Room) 15:36:out(Technical Room) 15:38:in(Technical Room) 16:06:out(ME) 16:34:in(Technical Room) 16:35:out(Technical Room) 16:41:in(ME) 18:31:out(ME) ,02-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,09:38,22:02,730,Present ,09:38:in(ME) 11:47:out(Technical Room) 11:49:in(Technical Room) 19:10:out(Technical Room) 19:21:in(Technical Room) 22:01:out(ME) 22:02:in(ME) ,02-01-2025
+ISCSI072,Sankalp Chenna,Dev,09:40,17:42,401,Present ,09:40:in(ME) 09:43:out(Technical Room) 09:48:in(Technical Room) 12:08:out(Technical Room) 12:10:in(Technical Room) 12:19:out(ME) 12:39:in(ME) 14:13:out(Technical Room) 14:39:in(Technical Room) 17:09:out(ME) 17:24:in(Technical Room) 17:29:out(ME) 17:42:in(Technical Room) ,02-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,02-01-2025
+ISCSI075,Markapuram Vijay,Dev,09:22,19:58,539,Present ,09:22:in(Technical Room) 09:27:out(Technical Room) 09:28:in(ME) 10:15:out(Technical Room) 10:41:in(Technical Room) 13:11:out(Technical Room) 13:37:in(Technical Room) 15:29:out(Technical Room) 15:33:in(Technical Room) 17:22:out(Technical Room) 17:43:in(Technical Room) 17:56:out(Technical Room) 18:09:in(Technical Room) 18:48:out(Technical Room) 18:51:in(Technical Room) 19:45:out(Technical Room) 19:48:in(Technical Room) 19:58:out(ME) ,02-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,11:45,19:16,377,Present ,11:45:in(ME) 13:41:out(Technical Room) 13:44:in(Technical Room) 13:53:out(Technical Room) 14:25:in(Technical Room) 16:06:out(ME) 16:41:in(ME) 19:03:out(Technical Room) 19:07:in(Technical Room) 19:16:out(ME) ,02-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,11:49,18:32,294,Present ,11:49:in(ME) 11:53:out(Technical Room) 12:00:in(Technical Room) 13:10:out(Technical Room) 13:11:in(Technical Room) 13:20:out(Technical Room) 13:33:in(Technical Room) 13:46:out(ME) 13:57:in(ME) 14:22:out(ME) 14:24:in(ME) 14:38:out(Technical Room) 14:39:in(ME) 14:40:out(Technical Room) 14:41:in(Technical Room) 14:45:out(ME) 14:45:in(Technical Room) 14:53:out(ME) 14:57:in(ME) 15:05:out(ME) 15:11:in(ME) 15:53:out(Technical Room) 15:55:in(Technical Room) 16:04:out(ME) 16:34:in(ME) 16:34:out(ME) 16:36:in(ME) 17:16:out(Technical Room) 17:25:in(Technical Room) 17:33:out(ME) 17:48:in(Technical Room) 17:51:out(Technical Room) 17:55:in(ME) 18:23:out(Technical Room) 18:24:in(Technical Room) 18:32:out(ME) ,02-01-2025
+999,Incuspaze Service,Default,10:00,15:29,329,Present ,10:00:in(Technical Room) 15:29:out(Technical Room) ,01-01-2025
+7777,Incuspaze HK,Default,19:33,19:54,18,Present ,19:33:in(Technical Room) 19:43:out(ME) 19:46:in(ME) 19:54:out(ME) ,01-01-2025
+Director,Director,Default,00:00,00:00,0,Absent,,01-01-2025
+ISCSE049,Pramith Reddy Gaje,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSE059,Shirish Tatikonda,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSE063,ISCSE063,Default,00:00,00:00,0,Holiday ,,01-01-2025
+ISCSE069,Gudimetla Ramakrishna,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSF001,ISCSF001,Default,00:00,00:00,0,Holiday ,,01-01-2025
+ISCSI000,ISCSI000,Default,00:00,00:00,0,Holiday ,,01-01-2025
+ISCSI001,Lavanya Tamara,HR & Admin,00:00,00:00,0,Absent,,01-01-2025
+ISCSI002,Naveen Kumara Tamara,HR & Admin,00:00,00:00,0,Absent,,01-01-2025
+ISCSI003,Shankar Rao Attapakala,BD,00:00,00:00,0,Absent,,01-01-2025
+ISCSI004,Prasannanjanellu Jumpu,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSI005,Vinitha Rudra,PSS,00:00,00:00,0,Absent,,01-01-2025
+ISCSI008,Shakti Sohan Kumar,PSS,00:00,00:00,0,Absent,,01-01-2025
+ISCSI015,Vamshi Krishna Katakam,BD,00:00,00:00,0,Absent,,01-01-2025
+ISCSI027,ISCSI027,Default,00:00,00:00,0,Holiday ,,01-01-2025
+ISCSI036,Niranjan Batana,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSI039,Naveen Pagote,PSS,00:00,00:00,0,Absent,,01-01-2025
+ISCSI040,Sai Kiran Kallepally,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSI042,Sreedhar Kallagunta,Fin,00:00,00:00,0,Absent,,01-01-2025
+ISCSI043,ISCSI043,Default,00:00,00:00,0,Holiday ,,01-01-2025
+ISCSI047,Divya Nadikattu,HR & Admin,00:00,00:00,0,Absent,,01-01-2025
+ISCSI057,ISCSI057,Default,00:00,00:00,0,Holiday ,,01-01-2025
+ISCSI058,Uma Bharathi Muthkey,PSS,00:00,00:00,0,Absent,,01-01-2025
+ISCSI062,Vikram Kumar Muniganti,BD,00:00,00:00,0,Absent,,01-01-2025
+ISCSI063,Parvatha Reddy Sai Charan,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSI064,Chettipalli Santhosh Kumar,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSI066,Estemsetti Sravanthi Rani,PSS,00:00,00:00,0,Absent,,01-01-2025
+ISCSI068,ISCSI068,Default,00:00,00:00,0,Holiday ,,01-01-2025
+ISCSI069,Lodem Rakesh,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSI071,Srinivasa Salvapathi Naidu Manapaka,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSI072,Sankalp Chenna,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSI073,Markapuram Venkata Raja,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSI075,Markapuram Vijay,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCSI076,Gadde Venkata Prashanth,Dev,00:00,00:00,0,Absent,,01-01-2025
+ISCST011,Shiva Prasad Bhuma,Dev,00:00,00:00,0,Absent,,01-01-2025

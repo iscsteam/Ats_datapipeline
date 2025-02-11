@@ -1,14 +1,26 @@
 import os
+from dotenv import load_dotenv
+# Load .env file
+load_dotenv()
+#exec(open(r"C:\Users\91779\OneDrive\Desktop\Ats_data_transformation_spi\python_scripts\libraries.py").read())
 exec(open("python_scripts/libraries.py").read())
-# Database credentials
-username_database = os.getenv('username_database')
+username_database= os.getenv('username_database')
 password = os.getenv('password')
 host = os.getenv('host')
 port = os.getenv('port')
 database = os.getenv('database')
 
 app = FastAPI()
-
+def connect_to_postgresql(database_url: str):
+    try:
+        conn = psycopg2.connect(database_url, sslmode='require')
+        print("The database is connected")
+        return conn
+    except Exception as e:
+        print("Error connecting to PostgreSQL:", e)
+        return None
+database_url = f"postgresql://{username_database}:{password}@{host}:{port}/{database}"
+connection = connect_to_postgresql(database_url)
 UPLOAD_DIR = "uploads"
 os.makedirs(UPLOAD_DIR, exist_ok=True)  # Ensure the upload directory exists
 
@@ -24,9 +36,53 @@ async def upload_file(file: UploadFile = File(...)):
     data = process_raw_data(file_path)
     # Process the "gold" (aggregated) data and insert into the second table
     gold_data(data)
+    attendence_monthly(file_path)
     
-    return {"filename": file.filename, "message": "File processed successfully."}
-
+    return {"filename": file.filename, "message": "File processed successfully and you can we the data in ISCS api APPLICATION"}
+    
+def attendence_monthly(file_path: str)-> pd.DataFrame:
+    try:
+        # Read the Excel file
+         # Read the Excel file
+        data=pd.read_csv(file_path,encoding='ISO-8859-1')
+        data=data[data["Department"]!="Default"]
+        data["month_name"] = pd.to_datetime(data["AttendanceDate"], format="%d-%m-%Y").dt.month_name()
+        data["Year"] = pd.to_datetime(data["AttendanceDate"], format="%d-%m-%Y").dt.year
+        status_summary = data.groupby(["Employee Name", "month_name","Year"])["Status"].value_counts().unstack(fill_value=0)
+        # Reset index to make Employee Name and Month Name columns instead of index
+        status_summary= status_summary.reset_index()
+        status_summary["Year"] = status_summary["Year"].astype(int)
+        attendence_table=status_summary[["Employee Name","month_name","Absent","Present ","Year"]]
+        attendence_table.rename(columns={
+            "Employee Name": "employee_name",
+            "month_name": "month_name",
+            "Absent": "absent",
+            "Present": "present",
+            "Year": "year"
+        }, inplace=True)
+        if connection:
+            try:
+                cursor = connection.cursor()
+                rows_to_insert = [tuple(row) for row in attendence_table.values]
+                insert_query = """
+                    INSERT INTO attendance_table 
+                    (employee_name,month_name,absent,present,year) 
+                    VALUES (%s, %s, %s, %s, %s)
+                    
+                """
+                cursor.executemany(insert_query, rows_to_insert)
+                connection.commit()
+                print(f"{cursor.rowcount} rows were inserted into employee_attendance_month.")
+            except Exception as e:
+                print("Error while inserting into database:", e)
+            finally:
+                # cursor.close()
+                # connection.close()
+                print("The connection to employee_attendance_daily is closed.")
+        else:
+            print("Connection to the database could not be established.")
+    except Exception as e:
+        print(f"Error processing {file_path}: {e}")
 def process_raw_data(file_path: str) -> pd.DataFrame:
     # Read CSV file using the specified encoding
     data = pd.read_csv(file_path, encoding='ISO-8859-1')
@@ -179,14 +235,7 @@ def process_raw_data(file_path: str) -> pd.DataFrame:
     
     return data
 
-def connect_to_postgresql(database_url: str):
-    try:
-        conn = psycopg2.connect(database_url, sslmode='require')
-        print("The database is connected")
-        return conn
-    except Exception as e:
-        print("Error connecting to PostgreSQL:", e)
-        return None
+
 
 def gold_data(data: pd.DataFrame):
     # Helper function to convert time string "HH:MM" to total seconds
@@ -267,4 +316,3 @@ def gold_data(data: pd.DataFrame):
             print("The connection to employee_work_hours is closed.")
     else:
         print("Connection to the database could not be established for employee_work_hours.")
-
