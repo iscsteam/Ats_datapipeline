@@ -11,6 +11,18 @@ port = os.getenv('port')
 database = os.getenv('database')
 
 app = FastAPI()
+origins = [
+    "https://attendance-tracking.vercel.app",
+    "http://localhost",
+    "http://localhost:8080",
+]
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 def connect_to_postgresql(database_url: str):
     try:
         conn = psycopg2.connect(database_url, sslmode='require')

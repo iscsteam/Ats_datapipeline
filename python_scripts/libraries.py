@@ -10,5 +10,6 @@ import psycopg2
 import shutil
 import asyncio
 from fastapi import FastAPI, UploadFile, File, WebSocket, WebSocketDisconnect
+from fastapi.middleware.cors import CORSMiddleware
 
 
