@@ -149,10 +149,10 @@ def process_raw_data(file_path: str) -> pd.DataFrame:
     
     # Convert InTime and OutTime to float representations for filtering
     data["InTimeFloat"] = data["InTime"].str.replace(":", ".").astype(float)
-    # data = data[data["InTimeFloat"] <= 11.59]
+    data = data[data["InTimeFloat"] <= 20.20]
     
     data["OutTimeFloat"] = data["OutTime"].str.replace(":", ".").astype(float)
-    # data = data[data["OutTimeFloat"] >= 13.30]
+    data = data[data["OutTimeFloat"] >= 9:30]
     
     # Function to calculate duration between in and out times
     def calculate_duration(intime: str, outtime: str) -> str:
